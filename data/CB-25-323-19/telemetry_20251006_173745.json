@@ -1,0 +1,3860 @@
+{
+  "timestamp": 1759761465.6081102,
+  "agent_id": "CB-25-323-19",
+  "system_info": {
+    "hostname": "CB-25-323-19",
+    "os_platform": "Windows",
+    "os_version": "10.0.19045",
+    "cpu": {
+      "cpu_percent": 32.0,
+      "cpu_count": 8,
+      "cpu_freq": {
+        "current": 3408.0,
+        "min": 0.0,
+        "max": 3408.0
+      }
+    },
+    "memory": {
+      "total": 17057497088,
+      "available": 5933723648,
+      "percent": 65.2,
+      "used": 11123773440
+    },
+    "disks": {
+      "C:\\": {
+        "total": 1013309239296,
+        "used": 304191877120,
+        "free": 709117362176,
+        "percent": 30.0,
+        "fstype": "NTFS",
+        "device": "C:\\"
+      }
+    }
+  },
+  "processes": [
+    {
+      "pid": 0,
+      "name": "System Idle Process",
+      "username": "NT AUTHORITY\\SYSTEM",
+      "cmdline": ""
+    },
+    {
+      "pid": 4,
+      "name": "System",
+      "username": "NT AUTHORITY\\SYSTEM",
+      "cmdline": ""
+    },
+    {
+      "pid": 8,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 124,
+      "name": "Registry",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 560,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 572,
+      "name": "smss.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 660,
+      "name": "csrss.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 664,
+      "name": "fontdrvhost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 792,
+      "name": "wininit.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 868,
+      "name": "services.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 880,
+      "name": "lsass.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1028,
+      "name": "DeviceMonitor.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\National Instruments\\NI Device Monitor\\DeviceMonitor.exe --startup"
+    },
+    {
+      "pid": 1052,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1068,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1108,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1196,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=51 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=11415737997 --skip-read-main-dll --metrics-shmem-handle=8644,i,9135926854098692215,11039501688826363523,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=8040 /prefetch:1"
+    },
+    {
+      "pid": 1212,
+      "name": "NIWebServiceContainer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1224,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1292,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1336,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1344,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1352,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1424,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1456,
+      "name": "ShellExperienceHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca"
+    },
+    {
+      "pid": 1484,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1500,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1532,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1616,
+      "name": "RadeonSettings.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\AMD\\CNext\\CNext\\RadeonSettings.exe atlogon"
+    },
+    {
+      "pid": 1748,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=gpu-process --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1788 /prefetch:2"
+    },
+    {
+      "pid": 1784,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1792,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1824,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3536 /prefetch:8"
+    },
+    {
+      "pid": 1852,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 1904,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=21 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=10837239425 --skip-read-main-dll --metrics-shmem-handle=4180,i,2517941817482228636,15750850307355654827,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=6356 /prefetch:1"
+    },
+    {
+      "pid": 2004,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2016,
+      "name": "atiesrxx.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2040,
+      "name": "SearchApp.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca"
+    },
+    {
+      "pid": 2056,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2080,
+      "name": "WavesSvc64.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Waves\\MaxxAudio\\WavesSvc64.exe -Jack"
+    },
+    {
+      "pid": 2160,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2180,
+      "name": "atieclxx.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2204,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2212,
+      "name": "RuntimeBroker.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+    },
+    {
+      "pid": 2224,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2420,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2460,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2596,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2604,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2652,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2720,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2780,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2796,
+      "name": "powershell.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+    },
+    {
+      "pid": 2800,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2848,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2852,
+      "name": "RAVBg64.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 2856,
+      "name": "SecurityHealthSystray.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\SecurityHealthSystray.exe"
+    },
+    {
+      "pid": 3100,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3196,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3304,
+      "name": "NIWebServiceContainer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3308,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3316,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3332,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=72 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12541720309 --skip-read-main-dll --metrics-shmem-handle=9176,i,6914658461464887367,5203632869486646315,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=8496 /prefetch:1"
+    },
+    {
+      "pid": 3360,
+      "name": "backgroundTaskHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\backgroundTaskHost.exe -ServerName:Global.DesktopSpotlight.AppXz2j21w56bgxkgsjhtn7zkjsepq96erz2.mca"
+    },
+    {
+      "pid": 3400,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3424,
+      "name": "igfxCUIService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3460,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3468,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3484,
+      "name": "msedgewebview2.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --type=gpu-process --noerrdialogs --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.6033 --embedded-browser-webview=1 --gpu-preferences=SAAAAAAAAADgAAAIAAAAAAAAAAAAAGAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --always-read-main-dll --metrics-shmem-handle=1824,i,6969360268944299267,18041336782740751603,262144 --field-trial-handle=1944,i,9670527609240859939,11113097649544026340,262144 --enable-features=ForceSWDCompWhenDCompFallbackRequired,msAggressiveCacheTrimming,msCustomDataPartition,msEmbeddedBrowserVisualHosting,msWebView2NoTabForScreenShare,msWebViewAppLifeCycleWorkaround --disable-features=BackForwardCache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProductsInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetection,MediaFoundationCameraUsageMonitoring,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments,msAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllowMSAPrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForNonAADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAutofillEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService,msDataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveHistory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI,msEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEdgeCloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdgeCollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefsBasic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeImageEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewDeviceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordIrisSaveBubble,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTabToSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI,msEdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTranslate,msEdgeUpdatesMoreMenuPill,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContentFilteringFeedback,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnablePdfUpsell,msEnableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskManager,msFileSystemAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,msGeolocationAccessService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeolocationService,msGrowthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,msIrm,msIrmv2,msKlarnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarOnLaunch,msMIPCrossTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSitesToPin,msNurturingGlobalSitePinningOnCloseModal,msNurturingSitePinningCITopSites,msNurturingSitePinningWithWindowsConsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebViewer,msPageInteractionRestrictionRevoke,msPasswordBreachDetection,msPdfAnnotationsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRead,msPdfFreeText,msPdfFreeTextForCJK,msPdfHighlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,msPdfPopupMarkerRenderer,msPdfShare,msPdfSharedLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbnailCache,msPdfUnderside,msPdfViewRestore,msPersonalizationUMA,msPriceComparison,msPrintInWebView2,msPromptDefaultHandlerForPDF,msReactiveSearch,msReadAloud,msReadAloudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp,msShoppingTrigger,msShorelineSearch,msShorelineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msShowReadAloudIconInAddressBar,msShowUXForAADPrtSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessageForNewSessionWhenHavingPendingNavigation,msSyncEdgeCollections,msTabResourceStats,msTokenizationAutofillInlineEnabled,msTouchMode,msTriggeringSignalGenerator,msUserUnderstanding,msVideoSuperResolutionUI,msWalletBuyNow,msWalletCheckout,msWalletDiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,msWalletPartialCard,msWalletPasswordCategorization,msWalletPasswordCategorizationPlatformExpansion,msWalletTokenizationCardMetadata,msWalletTokenizedAutofill,msWebAssist,msWebAssistHistorySearchService,msWebOOUI,msWindowsTaskManager,msWindowsUserActivities,msZipPayVirtualCard --variations-seed-version --mojo-platform-channel-handle=1940 /prefetch:2"
+    },
+    {
+      "pid": 3520,
+      "name": "AdskAccessService.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\AdskAccessService.exe --autoLaunch"
+    },
+    {
+      "pid": 3580,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3636,
+      "name": "CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.tmp",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Users\\202500~1\\AppData\\Local\\Temp\\is-AN8T3.tmp\\CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.tmp /SL5=$B0626,113667969,841216,C:\\Users\\202500~1\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.exe /verysilent /log /update=C:\\Users\\202500~1\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.flag /nocloseapplications /mergetasks=runcode,!desktopicon,!quicklaunchicon"
+    },
+    {
+      "pid": 3660,
+      "name": "backgroundTaskHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\backgroundTaskHost.exe -ServerName:ShellFeedsUI.AppXnj65k2d1a1rnztt2t2nng5ctmk3e76pn.mca"
+    },
+    {
+      "pid": 3676,
+      "name": "RtkAudioService64.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3716,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3744,
+      "name": "msedgewebview2.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.6033 --embedded-browser-webview=1 --always-read-main-dll --metrics-shmem-handle=2472,i,7031001560514894543,5347886745650245664,524288 --field-trial-handle=1944,i,9670527609240859939,11113097649544026340,262144 --enable-features=ForceSWDCompWhenDCompFallbackRequired,msAggressiveCacheTrimming,msCustomDataPartition,msEmbeddedBrowserVisualHosting,msWebView2NoTabForScreenShare,msWebViewAppLifeCycleWorkaround --disable-features=BackForwardCache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProductsInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetection,MediaFoundationCameraUsageMonitoring,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments,msAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllowMSAPrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForNonAADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAutofillEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService,msDataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveHistory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI,msEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEdgeCloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdgeCollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefsBasic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeImageEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewDeviceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordIrisSaveBubble,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTabToSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI,msEdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTranslate,msEdgeUpdatesMoreMenuPill,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContentFilteringFeedback,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnablePdfUpsell,msEnableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskManager,msFileSystemAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,msGeolocationAccessService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeolocationService,msGrowthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,msIrm,msIrmv2,msKlarnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarOnLaunch,msMIPCrossTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSitesToPin,msNurturingGlobalSitePinningOnCloseModal,msNurturingSitePinningCITopSites,msNurturingSitePinningWithWindowsConsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebViewer,msPageInteractionRestrictionRevoke,msPasswordBreachDetection,msPdfAnnotationsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRead,msPdfFreeText,msPdfFreeTextForCJK,msPdfHighlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,msPdfPopupMarkerRenderer,msPdfShare,msPdfSharedLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbnailCache,msPdfUnderside,msPdfViewRestore,msPersonalizationUMA,msPriceComparison,msPrintInWebView2,msPromptDefaultHandlerForPDF,msReactiveSearch,msReadAloud,msReadAloudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp,msShoppingTrigger,msShorelineSearch,msShorelineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msShowReadAloudIconInAddressBar,msShowUXForAADPrtSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessageForNewSessionWhenHavingPendingNavigation,msSyncEdgeCollections,msTabResourceStats,msTokenizationAutofillInlineEnabled,msTouchMode,msTriggeringSignalGenerator,msUserUnderstanding,msVideoSuperResolutionUI,msWalletBuyNow,msWalletCheckout,msWalletDiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,msWalletPartialCard,msWalletPasswordCategorization,msWalletPasswordCategorizationPlatformExpansion,msWalletTokenizationCardMetadata,msWalletTokenizedAutofill,msWebAssist,msWebAssistHistorySearchService,msWebOOUI,msWindowsTaskManager,msWindowsUserActivities,msZipPayVirtualCard --variations-seed-version --mojo-platform-channel-handle=2420 /prefetch:8"
+    },
+    {
+      "pid": 3792,
+      "name": "spoolsv.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3808,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --video-capture-use-gpu-memory-buffer --no-pre-read-main-dll --ram-no-pressure-read-main-dll --metrics-shmem-handle=6464,i,3244029118657384931,11051659219628843713,524288 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=6488 /prefetch:8"
+    },
+    {
+      "pid": 3852,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3932,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3940,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 3948,
+      "name": "igfxEM.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ki133839.inf_amd64_cc438d4d171a0c2b\\igfxEM.exe"
+    },
+    {
+      "pid": 3972,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4088,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4156,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --no-startup-window"
+    },
+    {
+      "pid": 4164,
+      "name": "armsvc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4188,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4200,
+      "name": "IntelCpHDCPSvc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4208,
+      "name": "AdskLicensingService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4216,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4228,
+      "name": "CmRcService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4236,
+      "name": "OfficeClickToRun.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4252,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4276,
+      "name": "AdskAccessServiceHost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4320,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4328,
+      "name": "FNPLicensingService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4336,
+      "name": "FNPLicensingService64.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4348,
+      "name": "RuntimeBroker.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+    },
+    {
+      "pid": 4380,
+      "name": "csrss.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4412,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4436,
+      "name": "SenseIR.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4456,
+      "name": "IpOverUsbSvc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4512,
+      "name": "nimxs.exe",
+      "username": null,
+      "cmdline": "C:\\Program Files (x86)\\National Instruments\\MAX\\nimxs.exe"
+    },
+    {
+      "pid": 4520,
+      "name": "MpDefenderCoreService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4548,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4572,
+      "name": "NIWebServiceContainer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4596,
+      "name": "nipalsm.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4636,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4648,
+      "name": "nisvcloc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4696,
+      "name": "niauth_daemon.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4712,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 4760,
+      "name": "NIWebServiceContainer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4776,
+      "name": "nipxicms.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4792,
+      "name": "msedgewebview2.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.6033 --embedded-browser-webview=1 --dma-cps-flags=0 --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --js-flags=--expose-gc --ms-user-locale= --time-ticks-at-unix-epoch=-1759748839641026 --launch-time-ticks=6656887016 --always-read-main-dll --metrics-shmem-handle=3608,i,6421437096819934533,5689654419287478528,2097152 --field-trial-handle=1944,i,9670527609240859939,11113097649544026340,262144 --enable-features=ForceSWDCompWhenDCompFallbackRequired,msAggressiveCacheTrimming,msCustomDataPartition,msEmbeddedBrowserVisualHosting,msWebView2NoTabForScreenShare,msWebViewAppLifeCycleWorkaround --disable-features=BackForwardCache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProductsInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetection,MediaFoundationCameraUsageMonitoring,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments,msAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllowMSAPrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForNonAADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAutofillEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService,msDataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveHistory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI,msEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEdgeCloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdgeCollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefsBasic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeImageEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewDeviceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordIrisSaveBubble,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTabToSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI,msEdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTranslate,msEdgeUpdatesMoreMenuPill,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContentFilteringFeedback,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnablePdfUpsell,msEnableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskManager,msFileSystemAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,msGeolocationAccessService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeolocationService,msGrowthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,msIrm,msIrmv2,msKlarnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarOnLaunch,msMIPCrossTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSitesToPin,msNurturingGlobalSitePinningOnCloseModal,msNurturingSitePinningCITopSites,msNurturingSitePinningWithWindowsConsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebViewer,msPageInteractionRestrictionRevoke,msPasswordBreachDetection,msPdfAnnotationsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRead,msPdfFreeText,msPdfFreeTextForCJK,msPdfHighlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,msPdfPopupMarkerRenderer,msPdfShare,msPdfSharedLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbnailCache,msPdfUnderside,msPdfViewRestore,msPersonalizationUMA,msPriceComparison,msPrintInWebView2,msPromptDefaultHandlerForPDF,msReactiveSearch,msReadAloud,msReadAloudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp,msShoppingTrigger,msShorelineSearch,msShorelineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msShowReadAloudIconInAddressBar,msShowUXForAADPrtSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessageForNewSessionWhenHavingPendingNavigation,msSyncEdgeCollections,msTabResourceStats,msTokenizationAutofillInlineEnabled,msTouchMode,msTriggeringSignalGenerator,msUserUnderstanding,msVideoSuperResolutionUI,msWalletBuyNow,msWalletCheckout,msWalletDiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,msWalletPartialCard,msWalletPasswordCategorization,msWalletPasswordCategorizationPlatformExpansion,msWalletTokenizationCardMetadata,msWalletTokenizedAutofill,msWebAssist,msWebAssistHistorySearchService,msWebOOUI,msWindowsTaskManager,msWindowsUserActivities,msZipPayVirtualCard --variations-seed-version --mojo-platform-channel-handle=3616 /prefetch:1"
+    },
+    {
+      "pid": 4848,
+      "name": "niroco.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4856,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 159 --height 13 --signal 0x5a8 --server 0x5a4"
+    },
+    {
+      "pid": 4904,
+      "name": "SearchFilterHost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4928,
+      "name": "nisds.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 4948,
+      "name": "IntelCpHeciSvc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5008,
+      "name": "w3dbsmgr.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5052,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5092,
+      "name": "RstMwService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5104,
+      "name": "SafeExamBrowser.Service.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5112,
+      "name": "SecurityHealthService.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5116,
+      "name": "MsSense.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5176,
+      "name": "sqlwriter.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5204,
+      "name": "ni_usbmon.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\National Instruments\\Shared\\myRIO\\ni_usbmon.exe"
+    },
+    {
+      "pid": 5212,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5224,
+      "name": "tftp4nt.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5260,
+      "name": "dllhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}"
+    },
+    {
+      "pid": 5284,
+      "name": "lkads.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5328,
+      "name": "vmware-authd.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5360,
+      "name": "vmnetdhcp.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5408,
+      "name": "vmnat.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5416,
+      "name": "WavesSysSvc64.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5424,
+      "name": "vmware-usbarbitrator64.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5440,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5472,
+      "name": "MsMpEng.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5492,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5552,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=gpu-process --no-pre-read-main-dll --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=2132,i,7552002914458919428,9397593165988212530,262144 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=2284 /prefetch:2"
+    },
+    {
+      "pid": 5592,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe c:\\Users\\202500459\\.vscode\\extensions\\ms-azuretools.vscode-containers-2.1.0\\dist\\dockerfile-language-server-nodejs\\lib\\server.js --node-ipc --node-ipc --clientProcessId=16936"
+    },
+    {
+      "pid": 5756,
+      "name": "nipalsm.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5764,
+      "name": "nipxism.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5772,
+      "name": "niusrpmonitor.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5780,
+      "name": "nimdnsResponder.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5792,
+      "name": "niusrpriorpc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 5876,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6032,
+      "name": "lktsrv.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6052,
+      "name": "nidmsrv.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6060,
+      "name": "nipalsm.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6076,
+      "name": "nidevldu.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6104,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6128,
+      "name": "RtkNGUI64.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtkNGUI64.exe /s"
+    },
+    {
+      "pid": 6136,
+      "name": "tagsrv.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6200,
+      "name": "AdskAccessUIHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\AdskAccessUIHost.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\UI Launcher/ada-ui --field-trial-handle=1764,i,14744555700532656158,630394637183686210,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=2188 /prefetch:3"
+    },
+    {
+      "pid": 6316,
+      "name": "explorer.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\Explorer.EXE"
+    },
+    {
+      "pid": 6456,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6464,
+      "name": "SearchProtocolHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\SearchProtocolHost.exe Global\\UsGthrFltPipeMssGthrPipe_S-1-5-21-572172190-2805188395-2799662317-6717936_ Global\\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-572172190-2805188395-2799662317-6717936 1 -2147483646 Software\\Microsoft\\Windows Search Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot) C:\\ProgramData\\Microsoft\\Search\\Data\\Temp\\usgthrsvc DownLevelDaemon 1"
+    },
+    {
+      "pid": 6700,
+      "name": "niDiscSvc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6772,
+      "name": "GenuineService.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\Genuine Service\\GenuineService.exe"
+    },
+    {
+      "pid": 6900,
+      "name": "niLxiDiscovery.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 6972,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=renderer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1759748839674582 --launch-time-ticks=10804055395 --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3144 --vscode-window-config=vscode:e9c0f029-3975-4529-835d-3e2f6e982147 /prefetch:1"
+    },
+    {
+      "pid": 7092,
+      "name": "powershell.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+    },
+    {
+      "pid": 7240,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7292,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7564,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7604,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=25 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=11002879242 --ram-no-pressure-read-main-dll --metrics-shmem-handle=7456,i,14802694710214318374,2684153884490397420,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=7328 /prefetch:1"
+    },
+    {
+      "pid": 7644,
+      "name": "NIWebServiceContainer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7680,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7688,
+      "name": "ApplicationWebServer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7696,
+      "name": "ctfmon.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "ctfmon.exe"
+    },
+    {
+      "pid": 7740,
+      "name": "RAVBg64.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 7824,
+      "name": "dllhost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 8036,
+      "name": "SystemWebServer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 8068,
+      "name": "svchost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup -s WpnUserService"
+    },
+    {
+      "pid": 8156,
+      "name": "NIWebServiceContainer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 8176,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe c:\\Users\\202500459\\.vscode\\extensions\\ms-python.vscode-pylance-2025.8.3\\dist\\server.bundle.js --cancellationReceive=file:6331133de64429ad7a250214fb977a5064dd738996 --node-ipc --clientProcessId=16936"
+    },
+    {
+      "pid": 8460,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 8760,
+      "name": "SearchIndexer.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 8836,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 9188,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 9240,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 9572,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=74 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12597053659 --skip-read-main-dll --metrics-shmem-handle=2752,i,3640668598315448681,9372543730286294654,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=7668 /prefetch:1"
+    },
+    {
+      "pid": 9612,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 9752,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 9904,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=crashpad-handler --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Microsoft\\Edge\\User Data /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\202500459\\AppData\\Local\\Microsoft\\Edge\\User Data\\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=141.0.7390.55 --annotation=exe=C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --annotation=plat=Win64 --annotation=prod=Edge --annotation=ver=141.0.3537.57 --initial-client-data=0x274,0x278,0x27c,0x270,0x284,0x7ffc16a9a9d8,0x7ffc16a9a9e4,0x7ffc16a9a9f0"
+    },
+    {
+      "pid": 10328,
+      "name": "amddvr.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\AMD\\CNext\\CNext\\amddvr.exe"
+    },
+    {
+      "pid": 10388,
+      "name": "msedgewebview2.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView\\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=140.0.7339.208 --annotation=exe=C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --annotation=plat=Win64 --annotation=prod=Edge WebView2 --annotation=ver=140.0.3485.94 --initial-client-data=0x170,0x174,0x178,0x14c,0x180,0x7ffbc5402300,0x7ffbc540230c,0x7ffbc5402318"
+    },
+    {
+      "pid": 10496,
+      "name": "powershell.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+    },
+    {
+      "pid": 10504,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 10524,
+      "name": "PresentationFontCache.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 10584,
+      "name": "unsecapp.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 10648,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4056 /prefetch:8"
+    },
+    {
+      "pid": 10672,
+      "name": "OneDrive.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": " /updateInstalled /background"
+    },
+    {
+      "pid": 10696,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=57 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=11962587011 --skip-read-main-dll --metrics-shmem-handle=8860,i,981026597903528030,8011380915616037922,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=7492 /prefetch:1"
+    },
+    {
+      "pid": 10820,
+      "name": "PhoneExperienceHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.25072.63.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe -ComServer:Background -Embedding"
+    },
+    {
+      "pid": 10844,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 10868,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 10932,
+      "name": "DataFinder.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\National Instruments\\Shared\\DataFinderDesktop\\bin\\DataFinder.exe /auto"
+    },
+    {
+      "pid": 11116,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 11240,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=73 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12581978596 --ram-no-pressure-read-main-dll --metrics-shmem-handle=5492,i,15237711863311364941,3652940635593427517,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=7916 /prefetch:1"
+    },
+    {
+      "pid": 11448,
+      "name": "NisSrv.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 11920,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 12092,
+      "name": "CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Users\\202500~1\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.exe /verysilent /log /update=C:\\Users\\202500~1\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-385651c938df8a906869babee516bffd0ddb9829.flag /nocloseapplications /mergetasks=runcode,!desktopicon,!quicklaunchicon"
+    },
+    {
+      "pid": 12096,
+      "name": "smartscreen.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\smartscreen.exe -Embedding"
+    },
+    {
+      "pid": 12104,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 12176,
+      "name": "nierserver.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\National Instruments\\Shared\\NI Error Reporting\\nierserver.exe"
+    },
+    {
+      "pid": 12204,
+      "name": "amdow.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\AMD\\CNext\\CNext\\amdow.exe 10328"
+    },
+    {
+      "pid": 12432,
+      "name": "AdobeCollabSync.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\AdobeCollabSync.exe"
+    },
+    {
+      "pid": 12496,
+      "name": "RuntimeBroker.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+    },
+    {
+      "pid": 13036,
+      "name": "msedgewebview2.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.6033 --embedded-browser-webview=1 --always-read-main-dll --metrics-shmem-handle=2128,i,3399040286698008698,4810493323985319057,524288 --field-trial-handle=1944,i,9670527609240859939,11113097649544026340,262144 --enable-features=ForceSWDCompWhenDCompFallbackRequired,msAggressiveCacheTrimming,msCustomDataPartition,msEmbeddedBrowserVisualHosting,msWebView2NoTabForScreenShare,msWebViewAppLifeCycleWorkaround --disable-features=BackForwardCache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProductsInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetection,MediaFoundationCameraUsageMonitoring,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments,msAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllowMSAPrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForNonAADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAutofillEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService,msDataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveHistory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI,msEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEdgeCloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdgeCollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefsBasic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeImageEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewDeviceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordIrisSaveBubble,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTabToSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI,msEdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTranslate,msEdgeUpdatesMoreMenuPill,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContentFilteringFeedback,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnablePdfUpsell,msEnableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskManager,msFileSystemAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,msGeolocationAccessService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeolocationService,msGrowthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,msIrm,msIrmv2,msKlarnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarOnLaunch,msMIPCrossTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSitesToPin,msNurturingGlobalSitePinningOnCloseModal,msNurturingSitePinningCITopSites,msNurturingSitePinningWithWindowsConsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebViewer,msPageInteractionRestrictionRevoke,msPasswordBreachDetection,msPdfAnnotationsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRead,msPdfFreeText,msPdfFreeTextForCJK,msPdfHighlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,msPdfPopupMarkerRenderer,msPdfShare,msPdfSharedLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbnailCache,msPdfUnderside,msPdfViewRestore,msPersonalizationUMA,msPriceComparison,msPrintInWebView2,msPromptDefaultHandlerForPDF,msReactiveSearch,msReadAloud,msReadAloudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp,msShoppingTrigger,msShorelineSearch,msShorelineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msShowReadAloudIconInAddressBar,msShowUXForAADPrtSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessageForNewSessionWhenHavingPendingNavigation,msSyncEdgeCollections,msTabResourceStats,msTokenizationAutofillInlineEnabled,msTouchMode,msTriggeringSignalGenerator,msUserUnderstanding,msVideoSuperResolutionUI,msWalletBuyNow,msWalletCheckout,msWalletDiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,msWalletPartialCard,msWalletPasswordCategorization,msWalletPasswordCategorizationPlatformExpansion,msWalletTokenizationCardMetadata,msWalletTokenizedAutofill,msWebAssist,msWebAssistHistorySearchService,msWebOOUI,msWindowsTaskManager,msWindowsUserActivities,msZipPayVirtualCard --variations-seed-version --mojo-platform-channel-handle=2120 /prefetch:3"
+    },
+    {
+      "pid": 13060,
+      "name": "SenseNdr.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13080,
+      "name": "SenseTVM.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13164,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1872 /prefetch:3"
+    },
+    {
+      "pid": 13192,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13320,
+      "name": "fontdrvhost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13344,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=69 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12256776764 --ram-no-pressure-read-main-dll --metrics-shmem-handle=8840,i,3666690997684400350,11919980363181084572,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=4164 /prefetch:1"
+    },
+    {
+      "pid": 13364,
+      "name": "sihost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "sihost.exe"
+    },
+    {
+      "pid": 13368,
+      "name": "CcmExec.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13432,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13436,
+      "name": "WmiPrvSE.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13524,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13560,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 13640,
+      "name": "FileCoAuth.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Users\\202500459\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\FileCoAuth.exe -Embedding"
+    },
+    {
+      "pid": 13656,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=70 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12344091061 --ram-no-pressure-read-main-dll --metrics-shmem-handle=1020,i,4719955308282284888,6338909761981849829,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=8472 /prefetch:1"
+    },
+    {
+      "pid": 13976,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe c:\\Users\\202500459\\.vscode\\extensions\\ms-azuretools.vscode-containers-2.1.0\\dist\\compose-language-service\\lib\\server.js --node-ipc --node-ipc --clientProcessId=16936"
+    },
+    {
+      "pid": 14036,
+      "name": "AdskIdentityManager.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdskIdentityManager\\1.14.0.3/AdskIdentityManager.exe --process_name Autodesk.IDSDK.DefaultProcess-v2 --server_name Autodesk.IDSDK.DefaultServer-v2"
+    },
+    {
+      "pid": 14124,
+      "name": "AggregatorHost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 14252,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 14364,
+      "name": "conhost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 14428,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=46 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=11375839027 --skip-read-main-dll --metrics-shmem-handle=7204,i,4097698203037567975,13285844129313726979,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=7848 /prefetch:1"
+    },
+    {
+      "pid": 14676,
+      "name": "sldworks_fs.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS\\sldworks_fs.exe"
+    },
+    {
+      "pid": 14944,
+      "name": "RuntimeBroker.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+    },
+    {
+      "pid": 15092,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 56 --height 13 --signal 0x4b8 --server 0x4b4"
+    },
+    {
+      "pid": 15188,
+      "name": "SnippingTool.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\SnippingTool.exe"
+    },
+    {
+      "pid": 15276,
+      "name": "nierserver.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\National Instruments\\Shared\\NI Error Reporting\\nierserver.exe"
+    },
+    {
+      "pid": 15432,
+      "name": "pet.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "c:\\Users\\202500459\\.vscode\\extensions\\ms-python.python-2025.14.0-win32-x64\\python-env-tools\\bin\\pet.exe server"
+    },
+    {
+      "pid": 15696,
+      "name": "powershell.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+    },
+    {
+      "pid": 15728,
+      "name": "CompPkgSrv.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\CompPkgSrv.exe -Embedding"
+    },
+    {
+      "pid": 15920,
+      "name": "svchost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup"
+    },
+    {
+      "pid": 16100,
+      "name": "python.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Python313\\python.exe sentinelonex_agent.py"
+    },
+    {
+      "pid": 16244,
+      "name": "sqlservr.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 16316,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 16400,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=71 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12524913553 --ram-no-pressure-read-main-dll --metrics-shmem-handle=8140,i,13168779848933502548,4660448073298201062,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=7604 /prefetch:1"
+    },
+    {
+      "pid": 16420,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4276 /prefetch:8"
+    },
+    {
+      "pid": 16452,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --startup-read-main-dll --metrics-shmem-handle=2804,i,10064928194650779116,17342476927131475949,524288 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=2852 /prefetch:8"
+    },
+    {
+      "pid": 16552,
+      "name": "svchost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc"
+    },
+    {
+      "pid": 16596,
+      "name": "TextInputHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca"
+    },
+    {
+      "pid": 16744,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 56 --height 13 --signal 0x458 --server 0x454"
+    },
+    {
+      "pid": 16784,
+      "name": "RuntimeBroker.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+    },
+    {
+      "pid": 16876,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 16936,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4296 /prefetch:8"
+    },
+    {
+      "pid": 17004,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --instant-process --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=10634169281 --skip-read-main-dll --metrics-shmem-handle=5056,i,15564915884032085529,16543438556663791530,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=5076 /prefetch:1"
+    },
+    {
+      "pid": 17248,
+      "name": "AdskAccessCore.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Access\\AdskAccessCore.exe --minimizedUi --autoLaunch"
+    },
+    {
+      "pid": 17264,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=75 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=12608363589 --skip-read-main-dll --metrics-shmem-handle=7912,i,18104160862552735590,6360720537855360260,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=6720 /prefetch:1"
+    },
+    {
+      "pid": 17312,
+      "name": "SCNotification.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\CCM\\SCNotification.exe"
+    },
+    {
+      "pid": 17380,
+      "name": "taskhostw.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}"
+    },
+    {
+      "pid": 17488,
+      "name": "dwm.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 17644,
+      "name": "powershell.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+    },
+    {
+      "pid": 17724,
+      "name": "StartMenuExperienceHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca"
+    },
+    {
+      "pid": 17760,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\extensions\\json-language-features\\server\\dist\\node\\jsonServerMain --node-ipc --clientProcessId=16936"
+    },
+    {
+      "pid": 17768,
+      "name": "AdobeCollabSync.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\AdobeCollabSync.exe --type=collab-renderer --proc=12432"
+    },
+    {
+      "pid": 17936,
+      "name": "AdskAccessUIHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\AdskAccessUIHost.exe --type=gpu-process --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\UI Launcher/ada-ui --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1764,i,14744555700532656158,630394637183686210,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1760 /prefetch:2"
+    },
+    {
+      "pid": 18112,
+      "name": "OneDrive.Sync.Service.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "/silentConfig"
+    },
+    {
+      "pid": 18288,
+      "name": "python.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Python313\\python.exe main.py"
+    },
+    {
+      "pid": 18764,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 18772,
+      "name": "AdskAccessUIHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\AdskAccessUIHost.exe --type=renderer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\UI Launcher/ada-ui --app-user-model-id=Autodesk.Access --app-path=C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\resources\\app.asar --no-sandbox --no-zygote --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1759748839640727 --launch-time-ticks=6613444902 --field-trial-handle=1764,i,14744555700532656158,630394637183686210,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3088 /prefetch:1"
+    },
+    {
+      "pid": 18788,
+      "name": "Code.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\Code.exe --type=renderer --user-data-dir=C:\\Users\\202500459\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=C:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=27 --time-ticks-at-unix-epoch=-1759748839674582 --launch-time-ticks=11738314106 --field-trial-handle=1800,i,13987399319816365412,8706465534191816137,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=6124 --vscode-window-config=vscode:e9c0f029-3975-4529-835d-3e2f6e982147 /prefetch:1"
+    },
+    {
+      "pid": 18796,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 80 --height 30 --signal 0x4f8 --server 0x4f4"
+    },
+    {
+      "pid": 18904,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --startup-read-main-dll --metrics-shmem-handle=2444,i,16736723546764668116,5713225542102542996,524288 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=2452 /prefetch:3"
+    },
+    {
+      "pid": 18932,
+      "name": "AdskAccessUIHost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\AdskAccessUIHost.exe --appName ada --minimized"
+    },
+    {
+      "pid": 18936,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 80 --height 30 --signal 0x3dc --server 0x3d4"
+    },
+    {
+      "pid": 19140,
+      "name": "SearchApp.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca"
+    },
+    {
+      "pid": 19152,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 159 --height 13 --signal 0x4f8 --server 0x4f4"
+    },
+    {
+      "pid": 19352,
+      "name": "svchost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup -s CDPUserSvc"
+    },
+    {
+      "pid": 19376,
+      "name": "powershell.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Program Files\\Microsoft VS Code\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+    },
+    {
+      "pid": 19436,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 19444,
+      "name": "msedge.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=44 --time-ticks-at-unix-epoch=-1759748839673245 --launch-time-ticks=11367772835 --skip-read-main-dll --metrics-shmem-handle=6760,i,15806292477594882828,9748406826628896820,2097152 --field-trial-handle=2288,i,9929128397823000268,8388404960155642772,262144 --variations-seed-version --mojo-platform-channel-handle=5504 /prefetch:1"
+    },
+    {
+      "pid": 19488,
+      "name": "RAVBg64.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe /IM"
+    },
+    {
+      "pid": 19536,
+      "name": "msedgewebview2.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\140.0.3485.94\\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.6033 --user-data-dir=C:\\Users\\202500459\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView --noerrdialogs --enable-features=msEmbeddedBrowserVisualHosting --lang=en-US --mojo-named-platform-channel-pipe=2040.9448.2806994862549551345"
+    },
+    {
+      "pid": 19648,
+      "name": "conhost.exe",
+      "username": "POLYTECHNIC\\202500459",
+      "cmdline": "\\??\\C:\\Windows\\system32\\conhost.exe 0x4"
+    },
+    {
+      "pid": 19864,
+      "name": "policyHost.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 19880,
+      "name": "winlogon.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 20080,
+      "name": "sqlceip.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 20132,
+      "name": "uhssvc.exe",
+      "username": null,
+      "cmdline": ""
+    },
+    {
+      "pid": 20328,
+      "name": "svchost.exe",
+      "username": null,
+      "cmdline": ""
+    }
+  ],
+  "connections": [
+    {
+      "local_address": "127.0.0.1:49750",
+      "remote_address": "127.0.0.1:52753",
+      "status": "ESTABLISHED",
+      "pid": 6700
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:52659",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": ":::5985",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": ":::5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4156
+    },
+    {
+      "local_address": "0.0.0.0:6003",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6136
+    },
+    {
+      "local_address": "0.0.0.0:58292",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49710",
+      "remote_address": "127.0.0.1:49709",
+      "status": "ESTABLISHED",
+      "pid": 5756
+    },
+    {
+      "local_address": "127.0.0.1:51322",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:3389",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1224
+    },
+    {
+      "local_address": "127.0.0.1:49952",
+      "remote_address": "127.0.0.1:49953",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "10.25.6.50:55108",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:50351",
+      "remote_address": "127.0.0.1:49750",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "10.25.6.50:5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5780
+    },
+    {
+      "local_address": "192.168.153.1:55673",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1028
+    },
+    {
+      "local_address": ":::49664",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 880
+    },
+    {
+      "local_address": "127.0.0.1:52608",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 14036
+    },
+    {
+      "local_address": "10.25.6.50:55138",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:62546",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": ":::4500",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4412
+    },
+    {
+      "local_address": ":::49667",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2004
+    },
+    {
+      "local_address": "127.0.0.1:57748",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:55185",
+      "remote_address": "184.28.154.41:443",
+      "status": "ESTABLISHED",
+      "pid": 7680
+    },
+    {
+      "local_address": "127.0.0.1:49963",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 3304
+    },
+    {
+      "local_address": "127.0.0.1:50194",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:50031",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "192.168.153.1:58260",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7688
+    },
+    {
+      "local_address": "127.0.0.1:59982",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49750",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6700
+    },
+    {
+      "local_address": "0.0.0.0:64775",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4848
+    },
+    {
+      "local_address": "127.0.0.1:49721",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5764
+    },
+    {
+      "local_address": "10.25.6.50:139",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "10.25.6.50:55136",
+      "remote_address": "10.25.6.1:22",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:500",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4412
+    },
+    {
+      "local_address": "0.0.0.0:6005",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6136
+    },
+    {
+      "local_address": "0.0.0.0:902",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5328
+    },
+    {
+      "local_address": "127.0.0.1:49716",
+      "remote_address": "127.0.0.1:49715",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "0.0.0.0:59983",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:51313",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49753",
+      "remote_address": "127.0.0.1:49752",
+      "status": "ESTABLISHED",
+      "pid": 6076
+    },
+    {
+      "local_address": "0.0.0.0:57749",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:320",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:50282",
+      "remote_address": "127.0.0.1:50284",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "127.0.0.1:51316",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:50192",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:51271",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:57453",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "0.0.0.0:56115",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "192.168.78.1:57452",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "::1:42050",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 18112
+    },
+    {
+      "local_address": "127.0.0.1:52652",
+      "remote_address": "127.0.0.1:52653",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "0.0.0.0:6006",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 10932
+    },
+    {
+      "local_address": "::1:49736",
+      "remote_address": "::1:49737",
+      "status": "ESTABLISHED",
+      "pid": 6032
+    },
+    {
+      "local_address": "127.0.0.1:55105",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:8000",
+      "remote_address": "127.0.0.1:55158",
+      "status": "FIN_WAIT2",
+      "pid": 18288
+    },
+    {
+      "local_address": "0.0.0.0:49673",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 3792
+    },
+    {
+      "local_address": "10.25.6.50:55187",
+      "remote_address": "23.216.151.43:443",
+      "status": "ESTABLISHED",
+      "pid": 19140
+    },
+    {
+      "local_address": "10.25.6.50:55148",
+      "remote_address": "13.69.239.79:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": ":::49666",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1424
+    },
+    {
+      "local_address": "0.0.0.0:5985",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "127.0.0.1:52661",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:50194",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:52770",
+      "remote_address": "127.0.0.1:52769",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "10.25.6.50:55099",
+      "remote_address": "10.25.6.1:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:4709",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 8176
+    },
+    {
+      "local_address": "127.0.0.1:51318",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:55166",
+      "remote_address": "151.101.193.229:443",
+      "status": "ESTABLISHED",
+      "pid": 18904
+    },
+    {
+      "local_address": "127.0.0.1:61900",
+      "remote_address": "127.0.0.1:49942",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "::1:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "10.25.6.50:55156",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:56113",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:3580",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4648
+    },
+    {
+      "local_address": "127.0.0.1:52769",
+      "remote_address": "127.0.0.1:52770",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "0.0.0.0:51195",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13036
+    },
+    {
+      "local_address": "0.0.0.0:2343",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5284
+    },
+    {
+      "local_address": "127.0.0.1:49755",
+      "remote_address": "127.0.0.1:49756",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:49752",
+      "remote_address": "127.0.0.1:49753",
+      "status": "ESTABLISHED",
+      "pid": 6076
+    },
+    {
+      "local_address": "10.25.6.50:54858",
+      "remote_address": "104.208.16.88:443",
+      "status": "ESTABLISHED",
+      "pid": 18904
+    },
+    {
+      "local_address": "127.0.0.1:49802",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 6700
+    },
+    {
+      "local_address": "10.25.6.50:55154",
+      "remote_address": "10.25.6.1:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:49665",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 792
+    },
+    {
+      "local_address": "10.25.6.50:55186",
+      "remote_address": "51.116.246.106:443",
+      "status": "ESTABLISHED",
+      "pid": 4520
+    },
+    {
+      "local_address": ":::3351",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5008
+    },
+    {
+      "local_address": "0.0.0.0:912",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5328
+    },
+    {
+      "local_address": "::1:52800",
+      "remote_address": "::1:52799",
+      "status": "ESTABLISHED",
+      "pid": 10932
+    },
+    {
+      "local_address": "0.0.0.0:49667",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2004
+    },
+    {
+      "local_address": "0.0.0.0:51323",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49940",
+      "remote_address": "127.0.0.1:49941",
+      "status": "ESTABLISHED",
+      "pid": 7688
+    },
+    {
+      "local_address": "127.0.0.1:49949",
+      "remote_address": "127.0.0.1:61900",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "127.0.0.1:55094",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "10.25.6.50:55184",
+      "remote_address": "20.31.196.184:443",
+      "status": "ESTABLISHED",
+      "pid": 5116
+    },
+    {
+      "local_address": "0.0.0.0:5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4156
+    },
+    {
+      "local_address": "127.0.0.1:49722",
+      "remote_address": "127.0.0.1:49723",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "127.0.0.1:51320",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:55172",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:50279",
+      "remote_address": "127.0.0.1:50280",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": ":::47001",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": ":::3389",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1224
+    },
+    {
+      "local_address": ":::5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1484
+    },
+    {
+      "local_address": "127.0.0.1:55122",
+      "remote_address": "127.0.0.1:52608",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "192.168.78.1:137",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "local_address": "127.0.0.1:49754",
+      "remote_address": "127.0.0.1:61900",
+      "status": "ESTABLISHED",
+      "pid": 6076
+    },
+    {
+      "local_address": "10.25.6.50:51450",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4848
+    },
+    {
+      "local_address": "0.0.0.0:8080",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 7688
+    },
+    {
+      "local_address": "0.0.0.0:8005",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "::1:49725",
+      "remote_address": "::1:49724",
+      "status": "ESTABLISHED",
+      "pid": 6052
+    },
+    {
+      "local_address": "10.25.6.50:50529",
+      "remote_address": "4.213.25.240:443",
+      "status": "ESTABLISHED",
+      "pid": 5492
+    },
+    {
+      "local_address": "0.0.0.0:61494",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:5050",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 11116
+    },
+    {
+      "local_address": "127.0.0.1:55102",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:62379",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49741",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5764
+    },
+    {
+      "local_address": "0.0.0.0:56959",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:55147",
+      "remote_address": "127.0.0.1:52608",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:55177",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:5444",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5792
+    },
+    {
+      "local_address": "10.25.6.50:55109",
+      "remote_address": "10.25.6.1:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "10.25.6.50:55176",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "::1:49737",
+      "remote_address": "::1:49736",
+      "status": "ESTABLISHED",
+      "pid": 6032
+    },
+    {
+      "local_address": "0.0.0.0:6000",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6052
+    },
+    {
+      "local_address": "10.25.6.50:55101",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "10.25.6.50:54319",
+      "remote_address": "52.182.143.213:443",
+      "status": "ESTABLISHED",
+      "pid": 13164
+    },
+    {
+      "local_address": "127.0.0.1:49948",
+      "remote_address": "127.0.0.1:49947",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "127.0.0.1:55112",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:55093",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:7680",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 7680
+    },
+    {
+      "local_address": "0.0.0.0:4500",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4412
+    },
+    {
+      "local_address": "0.0.0.0:320",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4848
+    },
+    {
+      "local_address": "10.25.6.50:50795",
+      "remote_address": "10.220.0.151:10123",
+      "status": "ESTABLISHED",
+      "pid": 13368
+    },
+    {
+      "local_address": "127.0.0.1:55104",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:50317",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4848
+    },
+    {
+      "local_address": "::1:5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:49699",
+      "remote_address": "127.0.0.1:49698",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "0.0.0.0:51317",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:319",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4848
+    },
+    {
+      "local_address": "0.0.0.0:49666",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1424
+    },
+    {
+      "local_address": "10.25.6.50:54585",
+      "remote_address": "23.216.151.43:443",
+      "status": "LAST_ACK",
+      "pid": 19140
+    },
+    {
+      "local_address": "127.0.0.1:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "127.0.0.1:55142",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:51312",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:64210",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 2652
+    },
+    {
+      "local_address": "127.0.0.1:49333",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1784
+    },
+    {
+      "local_address": "10.25.6.50:55139",
+      "remote_address": "10.25.6.1:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:56114",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:55131",
+      "remote_address": "4.208.165.245:443",
+      "status": "ESTABLISHED",
+      "pid": 5472
+    },
+    {
+      "local_address": "127.0.0.1:49719",
+      "remote_address": "127.0.0.1:49718",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:56488",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13368
+    },
+    {
+      "local_address": "0.0.0.0:445",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "0.0.0.0:49672",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 880
+    },
+    {
+      "local_address": "0.0.0.0:5040",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 11116
+    },
+    {
+      "local_address": "0.0.0.0:49708",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5756
+    },
+    {
+      "local_address": "fe80::6d00:45e0:d09b:1998:57448",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "0.0.0.0:2343",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5284
+    },
+    {
+      "local_address": "127.0.0.1:49951",
+      "remote_address": "127.0.0.1:49950",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:55103",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": ":::49665",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 792
+    },
+    {
+      "local_address": "127.0.0.1:56112",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:55189",
+      "remote_address": "20.191.45.158:443",
+      "status": "ESTABLISHED",
+      "pid": 12096
+    },
+    {
+      "local_address": "127.0.0.1:49750",
+      "remote_address": "127.0.0.1:50351",
+      "status": "ESTABLISHED",
+      "pid": 6700
+    },
+    {
+      "local_address": "0.0.0.0:5001",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6052
+    },
+    {
+      "local_address": "192.168.78.1:138",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "local_address": "0.0.0.0:319",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1028
+    },
+    {
+      "local_address": ":::8005",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "0.0.0.0:5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1484
+    },
+    {
+      "local_address": "0.0.0.0:49930",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 868
+    },
+    {
+      "local_address": "127.0.0.1:49787",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 5284
+    },
+    {
+      "local_address": "127.0.0.1:55165",
+      "remote_address": "127.0.0.1:8000",
+      "status": "ESTABLISHED",
+      "pid": 18904
+    },
+    {
+      "local_address": "127.0.0.1:52611",
+      "remote_address": "127.0.0.1:52609",
+      "status": "ESTABLISHED",
+      "pid": 17248
+    },
+    {
+      "local_address": "0.0.0.0:51272",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:50284",
+      "remote_address": "127.0.0.1:50282",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "0.0.0.0:6002",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6136
+    },
+    {
+      "local_address": "127.0.0.1:61900",
+      "remote_address": "127.0.0.1:49949",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "10.25.6.50:55173",
+      "remote_address": "10.25.6.1:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "192.168.78.1:5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:55158",
+      "remote_address": "127.0.0.1:8000",
+      "status": "CLOSE_WAIT",
+      "pid": 18904
+    },
+    {
+      "local_address": "127.0.0.1:55087",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:52661",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "0.0.0.0:5003",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 10932
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49804",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "10.25.6.50:57450",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": ":::49672",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 880
+    },
+    {
+      "local_address": "0.0.0.0:51315",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:55129",
+      "remote_address": "127.0.0.1:55130",
+      "status": "ESTABLISHED",
+      "pid": 18288
+    },
+    {
+      "local_address": "10.25.6.50:55168",
+      "remote_address": "172.66.46.235:443",
+      "status": "ESTABLISHED",
+      "pid": 18904
+    },
+    {
+      "local_address": "192.168.153.1:137",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49808",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "192.168.78.1:58261",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7688
+    },
+    {
+      "local_address": ":::53093",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5780
+    },
+    {
+      "local_address": "0.0.0.0:59113",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 10932
+    },
+    {
+      "local_address": "127.0.0.1:49953",
+      "remote_address": "127.0.0.1:49952",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "10.25.6.50:138",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "local_address": "127.0.0.1:49723",
+      "remote_address": "127.0.0.1:49722",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "0.0.0.0:1583",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5008
+    },
+    {
+      "local_address": "127.0.0.1:49942",
+      "remote_address": "127.0.0.1:61900",
+      "status": "ESTABLISHED",
+      "pid": 7688
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49806",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "0.0.0.0:5355",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1484
+    },
+    {
+      "local_address": "10.25.6.50:55152",
+      "remote_address": "20.191.45.158:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:49698",
+      "remote_address": "127.0.0.1:49699",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:52735",
+      "remote_address": "127.0.0.1:52734",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "127.0.0.1:52650",
+      "remote_address": "127.0.0.1:52649",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "0.0.0.0:56117",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:8000",
+      "remote_address": "127.0.0.1:55165",
+      "status": "ESTABLISHED",
+      "pid": 18288
+    },
+    {
+      "local_address": "127.0.0.1:8000",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 18288
+    },
+    {
+      "local_address": "::1:49701",
+      "remote_address": "::1:49702",
+      "status": "ESTABLISHED",
+      "pid": 5284
+    },
+    {
+      "local_address": "127.0.0.1:50192",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "127.0.0.1:52749",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:51310",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:62378",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:69",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5224
+    },
+    {
+      "local_address": "0.0.0.0:50876",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 18904
+    },
+    {
+      "local_address": "0.0.0.0:59112",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6136
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:49975",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 7688
+    },
+    {
+      "local_address": "0.0.0.0:6004",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6136
+    },
+    {
+      "local_address": "127.0.0.1:58291",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:55098",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:49941",
+      "remote_address": "127.0.0.1:49940",
+      "status": "ESTABLISHED",
+      "pid": 7688
+    },
+    {
+      "local_address": "0.0.0.0:51321",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "10.25.6.50:54975",
+      "remote_address": "142.250.200.165:443",
+      "status": "ESTABLISHED",
+      "pid": 18904
+    },
+    {
+      "local_address": "192.168.78.1:55674",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:49709",
+      "remote_address": "127.0.0.1:49710",
+      "status": "ESTABLISHED",
+      "pid": 5756
+    },
+    {
+      "local_address": "10.25.6.50:55086",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": ":::2701",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4228
+    },
+    {
+      "local_address": "10.25.6.50:55132",
+      "remote_address": "4.208.165.245:443",
+      "status": "ESTABLISHED",
+      "pid": 5472
+    },
+    {
+      "local_address": "0.0.0.0:6001",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6032
+    },
+    {
+      "local_address": "127.0.0.1:50281",
+      "remote_address": "127.0.0.1:49721",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "127.0.0.1:19294",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 17768
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49802",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "fe80::6d00:45e0:d09b:1998:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "0.0.0.0:60332",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 18904
+    },
+    {
+      "local_address": "127.0.0.1:49715",
+      "remote_address": "127.0.0.1:49716",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "10.25.6.50:55188",
+      "remote_address": "23.216.151.43:443",
+      "status": "ESTABLISHED",
+      "pid": 19140
+    },
+    {
+      "local_address": "127.0.0.1:52653",
+      "remote_address": "127.0.0.1:52652",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49770",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "0.0.0.0:62674",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 18904
+    },
+    {
+      "local_address": "127.0.0.1:55092",
+      "remote_address": "127.0.0.1:52608",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "192.168.78.1:51452",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4848
+    },
+    {
+      "local_address": "127.0.0.1:49756",
+      "remote_address": "127.0.0.1:49755",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "::1:52799",
+      "remote_address": "::1:52800",
+      "status": "ESTABLISHED",
+      "pid": 10932
+    },
+    {
+      "local_address": "0.0.0.0:48080",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6136
+    },
+    {
+      "local_address": "::1:57449",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "0.0.0.0:62545",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:60143",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 880
+    },
+    {
+      "local_address": "0.0.0.0:49669",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2780
+    },
+    {
+      "local_address": ":::1583",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5008
+    },
+    {
+      "local_address": "127.0.0.1:49950",
+      "remote_address": "127.0.0.1:49951",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:52609",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 14036
+    },
+    {
+      "local_address": "127.0.0.1:52659",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:49717",
+      "remote_address": "127.0.0.1:61900",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "0.0.0.0:49664",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 880
+    },
+    {
+      "local_address": "127.0.0.1:49806",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 6700
+    },
+    {
+      "local_address": "127.0.0.1:49770",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 6900
+    },
+    {
+      "local_address": "127.0.0.1:49721",
+      "remote_address": "127.0.0.1:50281",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "127.0.0.1:1434",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 16244
+    },
+    {
+      "local_address": "0.0.0.0:135",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1052
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49975",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "::1:1434",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 16244
+    },
+    {
+      "local_address": "10.25.6.50:55141",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49787",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:52731",
+      "remote_address": "127.0.0.1:52732",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:52734",
+      "remote_address": "127.0.0.1:52735",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": "0.0.0.0:3582",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 8036
+    },
+    {
+      "local_address": "0.0.0.0:3351",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5008
+    },
+    {
+      "local_address": "10.25.6.50:55111",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:5000",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6032
+    },
+    {
+      "local_address": "127.0.0.1:50031",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 7688
+    },
+    {
+      "local_address": "192.168.153.1:5353",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5780
+    },
+    {
+      "local_address": "0.0.0.0:55680",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1028
+    },
+    {
+      "local_address": "192.168.153.1:51451",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4848
+    },
+    {
+      "local_address": "192.168.153.1:138",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4
+    },
+    {
+      "local_address": ":::7680",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 7680
+    },
+    {
+      "local_address": "127.0.0.1:49943",
+      "remote_address": "127.0.0.1:49944",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "0.0.0.0:3389",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1224
+    },
+    {
+      "local_address": "10.25.6.50:54587",
+      "remote_address": "23.216.151.25:443",
+      "status": "LAST_ACK",
+      "pid": 19140
+    },
+    {
+      "local_address": "127.0.0.1:55182",
+      "remote_address": "127.0.0.1:52608",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "0.0.0.0:5002",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 6136
+    },
+    {
+      "local_address": "0.0.0.0:64634",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 18904
+    },
+    {
+      "local_address": "10.25.6.50:55169",
+      "remote_address": "150.171.27.12:443",
+      "status": "ESTABLISHED",
+      "pid": 3660
+    },
+    {
+      "local_address": "127.0.0.1:52651",
+      "remote_address": "127.0.0.1:61900",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": ":::445",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "0.0.0.0:2701",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4228
+    },
+    {
+      "local_address": "fe80::8d83:374b:8252:ff00:57446",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "10.25.6.50:55183",
+      "remote_address": "72.154.7.113:443",
+      "status": "ESTABLISHED",
+      "pid": 7680
+    },
+    {
+      "local_address": "127.0.0.1:49760",
+      "remote_address": "127.0.0.1:49963",
+      "status": "ESTABLISHED",
+      "pid": 5780
+    },
+    {
+      "local_address": "0.0.0.0:51319",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49944",
+      "remote_address": "127.0.0.1:49943",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:55095",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "10.25.6.50:54787",
+      "remote_address": "20.111.1.3:443",
+      "status": "ESTABLISHED",
+      "pid": 13164
+    },
+    {
+      "local_address": "192.168.78.1:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "192.168.78.1:139",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "127.0.0.1:51314",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "0.0.0.0:123",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1352
+    },
+    {
+      "local_address": "::1:49739",
+      "remote_address": "::1:49738",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "fe80::9383:701f:3653:43fc:57447",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "0.0.0.0:62547",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:52616",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 17312
+    },
+    {
+      "local_address": "127.0.0.1:61900",
+      "remote_address": "127.0.0.1:49754",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "192.168.153.1:57451",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "fe80::9383:701f:3653:43fc:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "127.0.0.1:61493",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": ":::135",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1052
+    },
+    {
+      "local_address": "0.0.0.0:53092",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 5780
+    },
+    {
+      "local_address": "127.0.0.1:52753",
+      "remote_address": "127.0.0.1:49750",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:55113",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "10.25.6.50:58259",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7688
+    },
+    {
+      "local_address": ":::49673",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 3792
+    },
+    {
+      "local_address": "127.0.0.1:8000",
+      "remote_address": "127.0.0.1:55146",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:62544",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:49718",
+      "remote_address": "127.0.0.1:49719",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "127.0.0.1:49721",
+      "remote_address": "127.0.0.1:52733",
+      "status": "ESTABLISHED",
+      "pid": 5764
+    },
+    {
+      "local_address": ":::500",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4412
+    },
+    {
+      "local_address": "127.0.0.1:49808",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 6700
+    },
+    {
+      "local_address": "127.0.0.1:56116",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:55130",
+      "remote_address": "127.0.0.1:55129",
+      "status": "ESTABLISHED",
+      "pid": 18288
+    },
+    {
+      "local_address": ":::49669",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2780
+    },
+    {
+      "local_address": ":::3389",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1224
+    },
+    {
+      "local_address": "127.0.0.1:52609",
+      "remote_address": "127.0.0.1:52611",
+      "status": "ESTABLISHED",
+      "pid": 14036
+    },
+    {
+      "local_address": "10.25.6.50:55083",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:49766",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6900
+    },
+    {
+      "local_address": "127.0.0.1:49947",
+      "remote_address": "127.0.0.1:49948",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "127.0.0.1:52732",
+      "remote_address": "127.0.0.1:52731",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "::1:49702",
+      "remote_address": "::1:49701",
+      "status": "ESTABLISHED",
+      "pid": 5284
+    },
+    {
+      "local_address": "0.0.0.0:59110",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6052
+    },
+    {
+      "local_address": "127.0.0.1:61900",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4512
+    },
+    {
+      "local_address": "fe80::8d83:374b:8252:ff00:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "127.0.0.1:61900",
+      "remote_address": "127.0.0.1:52651",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "0.0.0.0:59111",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6032
+    },
+    {
+      "local_address": "0.0.0.0:51311",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": "127.0.0.1:55157",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "::1:49724",
+      "remote_address": "::1:49725",
+      "status": "ESTABLISHED",
+      "pid": 6052
+    },
+    {
+      "local_address": "127.0.0.1:56958",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 13060
+    },
+    {
+      "local_address": ":::123",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1352
+    },
+    {
+      "local_address": "127.0.0.1:52649",
+      "remote_address": "127.0.0.1:52650",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "10.25.6.50:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": ":::49930",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 868
+    },
+    {
+      "local_address": "192.168.153.1:139",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "10.25.6.50:55153",
+      "remote_address": "10.25.6.1:80",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "10.25.6.50:55084",
+      "remote_address": "10.25.6.1:443",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:8000",
+      "remote_address": "127.0.0.1:55145",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:52566",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4208
+    },
+    {
+      "local_address": ":::5355",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1484
+    },
+    {
+      "local_address": "0.0.0.0:47001",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "127.0.0.1:52733",
+      "remote_address": "127.0.0.1:49721",
+      "status": "ESTABLISHED",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:50280",
+      "remote_address": "127.0.0.1:50279",
+      "status": "ESTABLISHED",
+      "pid": 4848
+    },
+    {
+      "local_address": "192.168.153.1:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 9188
+    },
+    {
+      "local_address": "10.25.6.50:55672",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 1028
+    },
+    {
+      "local_address": "127.0.0.1:49804",
+      "remote_address": "127.0.0.1:49760",
+      "status": "ESTABLISHED",
+      "pid": 6700
+    },
+    {
+      "local_address": "127.0.0.1:61900",
+      "remote_address": "127.0.0.1:49717",
+      "status": "ESTABLISHED",
+      "pid": 4512
+    },
+    {
+      "local_address": "::1:49738",
+      "remote_address": "::1:49739",
+      "status": "ESTABLISHED",
+      "pid": 6136
+    },
+    {
+      "local_address": "10.25.6.50:137",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4
+    }
+  ],
+  "network_intelligence": {
+    "gateway_ip": "10.25.6.1",
+    "router_assessment": {
+      "ports": {
+        "22": "open",
+        "23": "closed",
+        "80": "open",
+        "443": "open",
+        "8080": "closed"
+      },
+      "findings": [
+        {
+          "check": "default_http_admin",
+          "status": "detected"
+        }
+      ]
+    }
+  }
+}

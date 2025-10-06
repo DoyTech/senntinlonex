@@ -18,10 +18,46 @@ def get_system_info():
     hostname = socket.gethostname()
     os_platform = platform.system()
     os_version = platform.version()
+    
+    # Get CPU information
+    cpu_info = {
+        'cpu_percent': psutil.cpu_percent(interval=1),
+        'cpu_count': psutil.cpu_count(),
+        'cpu_freq': psutil.cpu_freq()._asdict() if psutil.cpu_freq() else None
+    }
+    
+    # Get memory information
+    memory = psutil.virtual_memory()
+    memory_info = {
+        'total': memory.total,
+        'available': memory.available,
+        'percent': memory.percent,
+        'used': memory.used
+    }
+    
+    # Get disk information
+    disk_info = {}
+    for partition in psutil.disk_partitions():
+        try:
+            usage = psutil.disk_usage(partition.mountpoint)
+            disk_info[partition.mountpoint] = {
+                'total': usage.total,
+                'used': usage.used,
+                'free': usage.free,
+                'percent': usage.percent,
+                'fstype': partition.fstype,
+                'device': partition.device
+            }
+        except Exception:
+            continue
+    
     return {
         'hostname': hostname,
         'os_platform': os_platform,
-        'os_version': os_version
+        'os_version': os_version,
+        'cpu': cpu_info,
+        'memory': memory_info,
+        'disks': disk_info
     }
 
 def get_process_telemetry():
@@ -30,11 +66,14 @@ def get_process_telemetry():
     for proc in psutil.process_iter(['pid', 'name', 'username', 'cmdline']):
         try:
             info = proc.info
+            cmdline = info.get('cmdline', [])
+            # Handle cmdline being None or empty
+            cmdline_str = ' '.join(cmdline) if cmdline else ''
             processes.append({
                 'pid': info.get('pid'),
                 'name': info.get('name'),
                 'username': info.get('username'),
-                'cmdline': ' '.join(info.get('cmdline', []))
+                'cmdline': cmdline_str
             })
         except (psutil.AccessDenied, psutil.NoSuchProcess):
             continue
