@@ -33,3 +33,18 @@ export interface Agent {
   networkInterfaces: NetworkInterface[];
   processes: Process[];
 }
+
+export interface AIAnalysis {
+  summary: string;
+  mitre_technique: string;
+  remediation: string;
+}
+
+export interface Alert {
+  id: number;
+  title: string;
+  severity: 'critical' | 'high' | 'medium' | 'low';
+  evidence: any;
+  agent_id: string;
+  ai_analysis?: AIAnalysis;
+}

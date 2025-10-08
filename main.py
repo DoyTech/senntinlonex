@@ -13,12 +13,27 @@ import aiofiles
 import httpx
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 
 # --- Application Setup ---
 app = FastAPI(
     title="SentinelOneX Backend",
     description="An API for ingesting agent telemetry with a Gradio UI.",
     version="1.1.0"
+)
+
+# --- CORS Configuration ---
+origins = [
+    "http://localhost:1420", # The default port for Tauri dev server
+    "tauri://localhost"      # The protocol for the Tauri app itself
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # --- Configuration ---
