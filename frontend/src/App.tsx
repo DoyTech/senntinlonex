@@ -1,11 +1,10 @@
 import { useState, useEffect } from 'react';
-import { getAgents, getAgentData, Agent, AgentData } from './api';
+import { getAgents, Agent } from './api';
 import AssetList from './components/AssetList';
-import AgentDetails from './components/AgentDetails';
+import AlertsDashboard from './components/AlertsDashboard';
 
 function App() {
   const [agents, setAgents] = useState<Agent[]>([]);
-  const [selectedAgent, setSelectedAgent] = useState<AgentData | null>(null);
 
   useEffect(() => {
     const fetchAgents = async () => {
@@ -22,30 +21,13 @@ function App() {
     return () => clearInterval(interval);
   }, []);
 
-  const handleAgentSelect = async (agentId: string) => {
-    try {
-      const agentData = await getAgentData(agentId);
-      if (agentData) {
-        setSelectedAgent(agentData);
-      }
-    } catch (error) {
-      console.error('Error fetching agent details:', error);
-    }
-  };
-
   return (
-    <div className="flex h-screen bg-gray-100">
-      <aside className="w-64 bg-white shadow-md">
-        <AssetList agents={agents} onSelectAgent={handleAgentSelect} />
+    <div className="flex h-screen bg-gray-900 text-white">
+      <aside className="w-64 bg-gray-800 shadow-md">
+        <AssetList agents={agents} onSelectAgent={() => {}} />
       </aside>
-      <main className="flex-1 p-6">
-        {selectedAgent ? (
-          <AgentDetails agentData={selectedAgent} />
-        ) : (
-          <div className="flex items-center justify-center h-full text-gray-500">
-            Select an agent to view details
-          </div>
-        )}
+      <main className="flex-1">
+        <AlertsDashboard />
       </main>
     </div>
   );

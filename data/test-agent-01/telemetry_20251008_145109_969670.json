@@ -1,0 +1,28 @@
+{
+  "timestamp": 1759924269.96967,
+  "agent_id": "test-agent-01",
+  "system_info": {
+    "hostname": "dev-machine",
+    "os_platform": "Windows 11",
+    "ip_address": "192.168.1.101"
+  },
+  "processes": [
+    {
+      "pid": 1234,
+      "name": "powershell.exe",
+      "cmdline": "powershell -enc ..."
+    }
+  ],
+  "connections": [
+    {
+      "local_port": 49152,
+      "remote_ip": "8.8.8.8",
+      "remote_port": 53
+    }
+  ],
+  "network_intelligence": {
+    "dns_queries": [
+      "malicious-domain.com"
+    ]
+  }
+}
