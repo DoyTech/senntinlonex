@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759954913.116148,
+  "timestamp": 1759954882.994249,
   "agent_id": "DESKTOP-B3351V9",
   "system_info": {
     "hostname": "DESKTOP-B3351V9",
@@ -91,6 +91,12 @@
       "cmdline": ""
     },
     {
+      "pid": 1416,
+      "name": "msedge.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale=en_AE --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=35883350565 --ram-no-pressure-read-main-dll --metrics-shmem-handle=3816,i,9992203250222322850,15331241400201214024,2097152 --field-trial-handle=2268,i,15059889534179685268,7522151607019940629,262144 --variations-seed-version --mojo-platform-channel-handle=3416 /prefetch:9"
+    },
+    {
       "pid": 1592,
       "name": "svchost.exe",
       "username": null,
@@ -119,6 +125,12 @@
       "name": "csrss.exe",
       "username": null,
       "cmdline": ""
+    },
+    {
+      "pid": 1872,
+      "name": "msedge.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=entity_extraction_service.mojom.Extractor --lang=en-US --service-sandbox-type=entity_extraction --onnx-enabled-for-ee --video-capture-use-gpu-memory-buffer --no-pre-read-main-dll --skip-read-main-dll --metrics-shmem-handle=6888,i,3426673868240255137,14322375904782889583,524288 --field-trial-handle=2268,i,15059889534179685268,7522151607019940629,262144 --variations-seed-version --mojo-platform-channel-handle=6784 /prefetch:14"
     },
     {
       "pid": 1880,
@@ -218,12 +230,6 @@
     },
     {
       "pid": 2576,
-      "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
-    },
-    {
-      "pid": 2632,
       "name": "svchost.exe",
       "username": null,
       "cmdline": ""
@@ -919,6 +925,12 @@
       "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.57\\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=C:\\Users\\User\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=Widgets.exe --webview-exe-version=525.24401.20.0 --embedded-browser-webview=1 --no-pre-read-main-dll --startup-read-main-dll --metrics-shmem-handle=2448,i,17968622935189007477,10018503149022901769,524288 --field-trial-handle=1844,i,15065256072231673454,784227144531264069,262144 --enable-features=ForceSWDCompWhenDCompFallbackRequired,LocalNetworkAccessForFencedFrameNavigationsWarningOnly,LocalNetworkAccessForNavigationsWarningOnly,LocalNetworkAccessForSubframeNavigationsWarningOnly,LocalNetworkAccessForWorkersWarningOnly,msAggressiveCacheTrimming,msCustomDataPartition,msWebView2NoTabForScreenShare,msWindowsTaskManager --disable-features=BackForwardCache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProductsInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetection,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments,msAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllowMSAPrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForNonAADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAutofillEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService,msDataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveHistory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI,msEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEdgeCloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdgeCollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefsBasic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeImageEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewDeviceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordIrisSaveBubble,msEdgePasswordStrengthCheck,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTabToSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI,msEdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTranslate,msEdgeUpdatesMoreMenuPill,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContentFilteringFeedback,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnablePdfUpsell,msEnableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskManager,msFileSystemAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,msGeolocationAccessService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeolocationService,msGrowthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,msIrm,msIrmv2,msKlarnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarOnLaunch,msMIPCrossTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSitesToPin,msNurturingGlobalSitePinningOnCloseModal,msNurturingSitePinningCITopSites,msNurturingSitePinningWithWindowsConsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebViewer,msPageInteractionRestrictionRevoke,msPasswordBreachDetection,msPdfAnnotationsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRead,msPdfFreeText,msPdfFreeTextForCJK,msPdfHighlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,msPdfPopupMarkerRenderer,msPdfShare,msPdfSharedLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbnailCache,msPdfUnderside,msPdfViewRestore,msPersonalizationUMA,msPriceComparison,msPromptDefaultHandlerForPDF,msReactiveSearch,msReadAloud,msReadAloudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp,msShoppingTrigger,msShorelineSearch,msShorelineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msShowReadAloudIconInAddressBar,msShowUXForAADPrtSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessageForNewSessionWhenHavingPendingNavigation,msSyncEdgeCollections,msTabResourceStats,msTokenizationAutofillInlineEnabled,msTouchMode,msTriggeringSignalGenerator,msUserUnderstanding,msVideoSuperResolutionUI,msWalletBuyNow,msWalletCheckout,msWalletDiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,msWalletPartialCard,msWalletPasswordCategorization,msWalletPasswordCategorizationPlatformExpansion,msWalletTokenizationCardMetadata,msWalletTokenizedAutofill,msWebAssist,msWebAssistHistorySearchService,msWebOOUI,msWindowsUserActivities,msZipPayVirtualCard --variations-seed-version --mojo-platform-channel-handle=2212 /prefetch:13 /pfhostedapp:017373b2a5c4ead1a08d36a47bf86195c1909a61"
     },
     {
+      "pid": 8988,
+      "name": "msedge.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale=en_AE --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=35883353290 --skip-read-main-dll --metrics-shmem-handle=3952,i,1834436516595025421,6611707870584751607,2097152 --field-trial-handle=2268,i,15059889534179685268,7522151607019940629,262144 --variations-seed-version --mojo-platform-channel-handle=3856 /prefetch:9"
+    },
+    {
       "pid": 9028,
       "name": "TextInputHost.exe",
       "username": "DESKTOP-B3351V9\\User",
@@ -999,12 +1011,6 @@
     {
       "pid": 11256,
       "name": "conhost.exe",
-      "username": null,
-      "cmdline": ""
-    },
-    {
-      "pid": 11328,
-      "name": "sppsvc.exe",
       "username": null,
       "cmdline": ""
     },
@@ -1173,12 +1179,6 @@
     {
       "pid": 14996,
       "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
-    },
-    {
-      "pid": 15032,
-      "name": "SppExtComObj.Exe",
       "username": null,
       "cmdline": ""
     },
@@ -1357,16 +1357,16 @@
       "cmdline": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA Overlay.exe --type=renderer --enable-dinosaur-easter-egg-alt-images --user-data-dir=C:\\Users\\User\\AppData\\Local\\NVIDIA Corporation\\NVIDIA Overlay\\CefCache --no-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1759918977862458 --launch-time-ticks=974834889 --field-trial-handle=4520,i,4734927055976265935,4195116603376719823,262144 --variations-seed-version --enable-logging=handle --log-file=4532 --mojo-platform-channel-handle=4528 /prefetch:1"
     },
     {
+      "pid": 18480,
+      "name": "RuntimeBroker.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+    },
+    {
       "pid": 18736,
       "name": "nvrla.exe",
       "username": "DESKTOP-B3351V9\\User",
       "cmdline": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\bin\\nvrla.exe"
-    },
-    {
-      "pid": 18772,
-      "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
     },
     {
       "pid": 18796,
@@ -1375,10 +1375,10 @@
       "cmdline": ""
     },
     {
-      "pid": 18988,
-      "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
+      "pid": 18936,
+      "name": "claude.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\claude.exe --type=renderer --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\Claude --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --app-user-model-id=com.squirrel.AnthropicClaude.claude --app-path=C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\resources\\app.asar --enable-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=1124280211 --field-trial-handle=1888,i,10479723921578959885,1977989128136722867,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EnableTransparentHwndEnlargement,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4180 /prefetch:1"
     },
     {
       "pid": 19116,
@@ -1429,12 +1429,6 @@
       "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.57\\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\ollama app.exe\\EBWebView /prefetch:4 /pfhostedapp:36425fb8421a1e69d56bfd914eca4876a222b5e6 --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\User\\AppData\\Roaming\\ollama app.exe\\EBWebView\\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=141.0.7390.55 --annotation=exe=C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.57\\msedgewebview2.exe --annotation=plat=Win64 --annotation=prod=Edge WebView2 --annotation=ver=141.0.3537.57 --initial-client-data=0x198,0x19c,0x1a0,0x138,0x1a8,0x7ff9afbaa9d8,0x7ff9afbaa9e4,0x7ff9afbaa9f0"
     },
     {
-      "pid": 19696,
-      "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
-    },
-    {
       "pid": 19800,
       "name": "Code.exe",
       "username": "DESKTOP-B3351V9\\User",
@@ -1451,12 +1445,6 @@
       "name": "RevitAccelerator.exe",
       "username": "DESKTOP-B3351V9\\User",
       "cmdline": "C:\\Program Files\\Autodesk\\Personal Accelerator for Revit\\RevitAccelerator.exe"
-    },
-    {
-      "pid": 20064,
-      "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
     },
     {
       "pid": 20164,
@@ -1573,6 +1561,12 @@
       "cmdline": "C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=renderer --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1759918977862462 --launch-time-ticks=987995074 --field-trial-handle=1776,i,11456503311735932162,578489758539698978,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3088 --vscode-window-config=vscode:bf894002-203a-444e-b634-0675a4637e0b /prefetch:1"
     },
     {
+      "pid": 22688,
+      "name": "claude.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\claude.exe --type=renderer --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\Claude --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --app-user-model-id=com.squirrel.AnthropicClaude.claude --app-path=C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\resources\\app.asar --enable-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=1123273390 --field-trial-handle=1888,i,10479723921578959885,1977989128136722867,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EnableTransparentHwndEnlargement,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3184 /prefetch:1"
+    },
+    {
       "pid": 22700,
       "name": "Code.exe",
       "username": "DESKTOP-B3351V9\\User",
@@ -1583,12 +1577,6 @@
       "name": "msedge.exe",
       "username": "DESKTOP-B3351V9\\User",
       "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --instant-process --dma-cps-flags=2048 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale=en_AE --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=35893539002 --skip-read-main-dll --metrics-shmem-handle=6776,i,15311125459714953375,3225675768436720802,2097152 --field-trial-handle=2268,i,15059889534179685268,7522151607019940629,262144 --variations-seed-version --mojo-platform-channel-handle=6740 /prefetch:1"
-    },
-    {
-      "pid": 22980,
-      "name": "MoUsoCoreWorker.exe",
-      "username": null,
-      "cmdline": ""
     },
     {
       "pid": 23060,
@@ -1621,6 +1609,12 @@
       "cmdline": "C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\claude.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\Claude --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --field-trial-handle=1888,i,10479723921578959885,1977989128136722867,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EnableTransparentHwndEnlargement,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=2144 /prefetch:11"
     },
     {
+      "pid": 23416,
+      "name": "git.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "git.exe log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin"
+    },
+    {
       "pid": 23604,
       "name": "ShellHost.exe",
       "username": "DESKTOP-B3351V9\\User",
@@ -1639,10 +1633,10 @@
       "cmdline": "C:\\Users\\User\\AppData\\Local\\Programs\\Ollama\\ollama app.exe"
     },
     {
-      "pid": 23908,
-      "name": "svchost.exe",
-      "username": null,
-      "cmdline": ""
+      "pid": 24064,
+      "name": "msedge.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=asset_store.mojom.AssetStoreService --lang=en-US --service-sandbox-type=asset_store_service --video-capture-use-gpu-memory-buffer --no-pre-read-main-dll --skip-read-main-dll --metrics-shmem-handle=6908,i,9090944220168639427,6337690113873988446,524288 --field-trial-handle=2268,i,15059889534179685268,7522151607019940629,262144 --variations-seed-version --mojo-platform-channel-handle=6928 /prefetch:14"
     },
     {
       "pid": 24260,
@@ -1655,12 +1649,6 @@
       "name": "conhost.exe",
       "username": "DESKTOP-B3351V9\\User",
       "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
-    },
-    {
-      "pid": 24500,
-      "name": "claude.exe",
-      "username": "DESKTOP-B3351V9\\User",
-      "cmdline": "C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\claude.exe --type=renderer --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\Claude --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --app-user-model-id=com.squirrel.AnthropicClaude.claude --app-path=C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\resources\\app.asar --enable-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=13 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=35931886491 --field-trial-handle=1888,i,10479723921578959885,1977989128136722867,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EnableTransparentHwndEnlargement,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4160 /prefetch:1"
     },
     {
       "pid": 24572,
@@ -1723,6 +1711,12 @@
       "cmdline": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe -Embedding"
     },
     {
+      "pid": 26012,
+      "name": "git.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe log --oneline --cherry main...main@{upstream} --"
+    },
+    {
       "pid": 26300,
       "name": "NhNotifSys.exe",
       "username": "DESKTOP-B3351V9\\User",
@@ -1783,16 +1777,16 @@
       "cmdline": "\\\\?\\C:\\WINDOWS\\system32\\conhost.exe --headless --width 156 --height 13 --signal 0x7fc --server 0xad4"
     },
     {
+      "pid": 28092,
+      "name": "conhost.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+    },
+    {
       "pid": 28180,
       "name": "python.exe",
       "username": "DESKTOP-B3351V9\\User",
       "cmdline": "C:\\Program Files\\Python311\\python.exe sentinelonex_agent.py"
-    },
-    {
-      "pid": 28472,
-      "name": "claude.exe",
-      "username": "DESKTOP-B3351V9\\User",
-      "cmdline": "C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\claude.exe --type=renderer --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\Claude --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --app-user-model-id=com.squirrel.AnthropicClaude.claude --app-path=C:\\Users\\User\\AppData\\Local\\AnthropicClaude\\app-0.13.64\\resources\\app.asar --enable-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=14 --time-ticks-at-unix-epoch=-1759918977862463 --launch-time-ticks=35933029070 --field-trial-handle=1888,i,10479723921578959885,1977989128136722867,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EnableTransparentHwndEnlargement,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4708 /prefetch:1"
     },
     {
       "pid": 28772,
@@ -1807,6 +1801,12 @@
       "cmdline": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s NPSMSvc"
     },
     {
+      "pid": 29908,
+      "name": "git.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin"
+    },
+    {
       "pid": 30104,
       "name": "GooglePlayGamesServices.exe",
       "username": null,
@@ -1817,18 +1817,6 @@
       "name": "powershell.exe",
       "username": "DESKTOP-B3351V9\\User",
       "cmdline": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
-    },
-    {
-      "pid": 30256,
-      "name": "SearchProtocolHost.exe",
-      "username": null,
-      "cmdline": ""
-    },
-    {
-      "pid": 30628,
-      "name": "RuntimeBroker.exe",
-      "username": "DESKTOP-B3351V9\\User",
-      "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
     },
     {
       "pid": 31004,
@@ -1867,12 +1855,6 @@
       "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=gpu-process --no-pre-read-main-dll --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=2076,i,5783010988566349509,12819003232826821421,262144 --field-trial-handle=2268,i,15059889534179685268,7522151607019940629,262144 --variations-seed-version --mojo-platform-channel-handle=2244 /prefetch:2"
     },
     {
-      "pid": 32220,
-      "name": "SearchFilterHost.exe",
-      "username": null,
-      "cmdline": ""
-    },
-    {
       "pid": 32404,
       "name": "svchost.exe",
       "username": null,
@@ -1885,6 +1867,12 @@
       "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\141.0.3537.57\\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=ollama app.exe --user-data-dir=C:\\Users\\User\\AppData\\Roaming\\ollama app.exe\\EBWebView --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --mojo-named-platform-channel-pipe=23888.31048.8098721277664808133 /pfhostedapp:36425fb8421a1e69d56bfd914eca4876a222b5e6"
     },
     {
+      "pid": 32864,
+      "name": "conhost.exe",
+      "username": "DESKTOP-B3351V9\\User",
+      "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+    },
+    {
       "pid": 33084,
       "name": "svchost.exe",
       "username": null,
@@ -1892,6 +1880,12 @@
     }
   ],
   "connections": [
+    {
+      "local_address": "127.0.0.1:54989",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
     {
       "local_address": "127.0.0.1:49739",
       "remote_address": "127.0.0.1:49740",
@@ -1905,1108 +1899,10 @@
       "pid": 20364
     },
     {
-      "local_address": "192.168.100.146:58197",
-      "remote_address": "45.9.248.2:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58218",
-      "remote_address": "23.94.95.2:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58183",
-      "remote_address": "146.70.221.18:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58216",
-      "remote_address": "196.244.192.202:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60792",
-      "remote_address": "54.189.82.150:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "0.0.0.0:5050",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 12904
-    },
-    {
-      "local_address": "0.0.0.0:7680",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 4672
-    },
-    {
-      "local_address": "192.168.100.146:65015",
-      "remote_address": "185.216.35.66:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58233",
-      "remote_address": "67.21.32.144:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58171",
-      "remote_address": "66.115.182.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65029",
-      "remote_address": "138.199.39.144:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:57774",
-      "remote_address": "127.0.0.1:49680",
-      "status": "ESTABLISHED",
-      "pid": 10336
-    },
-    {
-      "local_address": "127.0.0.1:55357",
-      "remote_address": "127.0.0.1:63704",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:49669",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 3884
-    },
-    {
-      "local_address": "192.168.100.146:65013",
-      "remote_address": "62.93.176.91:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:57779",
-      "remote_address": "127.0.0.1:49680",
-      "status": "ESTABLISHED",
-      "pid": 10336
-    },
-    {
-      "local_address": "192.168.100.146:63463",
-      "remote_address": "108.158.75.31:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:58196",
-      "remote_address": "149.88.104.225:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:49741",
-      "remote_address": "127.0.0.1:49742",
-      "status": "ESTABLISHED",
-      "pid": 2304
-    },
-    {
-      "local_address": "192.168.100.146:65031",
-      "remote_address": "146.70.99.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58236",
-      "remote_address": "192.168.100.130:37937",
-      "status": "ESTABLISHED",
-      "pid": 18040
-    },
-    {
-      "local_address": "192.168.100.146:65000",
-      "remote_address": "149.40.56.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58201",
-      "remote_address": "213.207.132.2:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58227",
-      "remote_address": "103.4.30.197:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:51275",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "127.0.0.1:55509",
-      "remote_address": "127.0.0.1:8000",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65039",
-      "remote_address": "195.80.150.162:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:55000",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 10336
-    },
-    {
-      "local_address": ":::49680",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 6056
-    },
-    {
-      "local_address": "192.168.100.146:65080",
-      "remote_address": "198.54.133.227:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:1001",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 4
-    },
-    {
-      "local_address": "0.0.0.0:11434",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 23212
-    },
-    {
-      "local_address": "192.168.100.146:58189",
-      "remote_address": "5.252.69.3:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60793",
-      "remote_address": "18.97.36.2:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:60789",
-      "remote_address": "146.75.64.176:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:58168",
-      "remote_address": "2620:1ec:50::17:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:54049",
-      "remote_address": "127.0.0.1:54050",
-      "status": "ESTABLISHED",
-      "pid": 20364
-    },
-    {
-      "local_address": "192.168.100.146:64993",
-      "remote_address": "185.165.170.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:59728",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:64985",
-      "remote_address": "82.102.25.50:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65088",
-      "remote_address": "85.190.230.21:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::65262",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:65064",
-      "remote_address": "103.135.244.3:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:63707",
-      "remote_address": "127.0.0.1:63705",
-      "status": "ESTABLISHED",
-      "pid": 20052
-    },
-    {
-      "local_address": "0.0.0.0:135",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 2128
-    },
-    {
-      "local_address": "192.168.100.146:58234",
-      "remote_address": "104.255.169.109:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::58353",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:65082",
-      "remote_address": "185.94.192.210:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:5353",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:58205",
-      "remote_address": "165.231.253.210:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:445",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 4
-    },
-    {
-      "local_address": "192.168.100.146:58232",
-      "remote_address": "149.57.28.10:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58237",
-      "remote_address": "51.11.168.232:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:52689",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:65046",
-      "remote_address": "146.70.244.18:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58178",
-      "remote_address": "149.50.215.193:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:63708",
-      "remote_address": "127.0.0.1:63713",
-      "status": "ESTABLISHED",
-      "pid": 16744
-    },
-    {
-      "local_address": "192.168.100.146:60786",
-      "remote_address": "140.82.112.22:443",
-      "status": "ESTABLISHED",
-      "pid": 14372
-    },
-    {
-      "local_address": "192.168.100.146:58217",
-      "remote_address": "199.217.104.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::5355",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:64984",
-      "remote_address": "31.171.155.210:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:50760",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 5820
-    },
-    {
-      "local_address": "::1:49671",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 5940
-    },
-    {
-      "local_address": "192.168.100.146:64989",
-      "remote_address": "23.148.145.199:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65044",
-      "remote_address": "130.195.250.34:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58207",
-      "remote_address": "146.70.108.98:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65087",
-      "remote_address": "23.148.146.178:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65078",
-      "remote_address": "170.80.111.178:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65085",
-      "remote_address": "198.12.64.34:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:64109",
-      "remote_address": "127.0.0.1:64108",
-      "status": "ESTABLISHED",
-      "pid": 19228
-    },
-    {
-      "local_address": "192.168.100.146:65086",
-      "remote_address": "82.102.17.178:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65038",
-      "remote_address": "84.20.4.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65026",
-      "remote_address": "79.142.76.197:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65028",
-      "remote_address": "149.22.85.65:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:49682",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 1880
-    },
-    {
-      "local_address": "192.168.56.1:1900",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "192.168.100.146:64992",
-      "remote_address": "109.248.147.66:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:63623",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:58214",
-      "remote_address": "74.80.181.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:5040",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 12904
-    },
-    {
-      "local_address": "192.168.100.146:64996",
-      "remote_address": "84.17.50.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64986",
-      "remote_address": "154.47.19.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:49668",
+      "local_address": ":::49668",
       "remote_address": null,
       "status": "LISTEN",
       "pid": 2744
-    },
-    {
-      "local_address": "192.168.100.146:65067",
-      "remote_address": "149.22.86.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65032",
-      "remote_address": "178.255.42.174:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64998",
-      "remote_address": "23.133.64.162:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58206",
-      "remote_address": "66.90.90.2:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58213",
-      "remote_address": "149.102.240.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::445",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 4
-    },
-    {
-      "local_address": "0.0.0.0:49699",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 5148
-    },
-    {
-      "local_address": ":::49664",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 1908
-    },
-    {
-      "local_address": "192.168.100.146:55810",
-      "remote_address": "52.168.117.174:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:54989",
-      "remote_address": "127.0.0.1:8000",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:64921",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:64999",
-      "remote_address": "83.143.242.2:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65063",
-      "remote_address": "95.173.223.78:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:1900",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "127.0.0.1:63705",
-      "remote_address": "127.0.0.1:63707",
-      "status": "ESTABLISHED",
-      "pid": 20364
-    },
-    {
-      "local_address": "192.168.100.146:58169",
-      "remote_address": "104.26.4.147:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65071",
-      "remote_address": "198.44.138.19:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65025",
-      "remote_address": "185.221.132.242:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65060",
-      "remote_address": "104.244.209.34:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65074",
-      "remote_address": "45.154.27.207:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58199",
-      "remote_address": "198.44.137.43:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:64978",
-      "remote_address": "2603:1063:27:2::14:443",
-      "status": "ESTABLISHED",
-      "pid": 23880
-    },
-    {
-      "local_address": "192.168.100.146:65057",
-      "remote_address": "138.186.142.202:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:63718",
-      "remote_address": "127.0.0.1:19206",
-      "status": "ESTABLISHED",
-      "pid": 3732
-    },
-    {
-      "local_address": "192.168.100.146:58193",
-      "remote_address": "149.57.28.8:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:49908",
-      "remote_address": "127.0.0.1:49907",
-      "status": "ESTABLISHED",
-      "pid": 4064
-    },
-    {
-      "local_address": "192.168.100.146:65068",
-      "remote_address": "198.44.141.27:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65027",
-      "remote_address": "146.70.176.242:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58172",
-      "remote_address": "197.242.155.133:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58204",
-      "remote_address": "103.107.198.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58184",
-      "remote_address": "185.246.210.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:58276",
-      "remote_address": "127.0.0.1:8000",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58225",
-      "remote_address": "149.88.98.65:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65070",
-      "remote_address": "38.165.236.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:54050",
-      "remote_address": "127.0.0.1:54049",
-      "status": "ESTABLISHED",
-      "pid": 20364
-    },
-    {
-      "local_address": "192.168.100.146:58209",
-      "remote_address": "146.70.9.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60787",
-      "remote_address": "140.82.112.22:443",
-      "status": "ESTABLISHED",
-      "pid": 14372
-    },
-    {
-      "local_address": "192.168.100.146:65076",
-      "remote_address": "103.108.95.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:63708",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 16744
-    },
-    {
-      "local_address": "192.168.100.146:58195",
-      "remote_address": "149.102.251.206:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58215",
-      "remote_address": "23.189.168.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:49680",
-      "remote_address": "127.0.0.1:57779",
-      "status": "ESTABLISHED",
-      "pid": 6056
-    },
-    {
-      "local_address": "192.168.100.146:65083",
-      "remote_address": "185.225.28.50:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:49680",
-      "remote_address": "127.0.0.1:57774",
-      "status": "ESTABLISHED",
-      "pid": 6056
-    },
-    {
-      "local_address": "fe80::be90:1d3a:989c:539d:64973",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "127.0.0.1:49742",
-      "remote_address": "127.0.0.1:49741",
-      "status": "ESTABLISHED",
-      "pid": 2304
-    },
-    {
-      "local_address": "192.168.100.146:65002",
-      "remote_address": "38.165.231.71:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65096",
-      "remote_address": "79.127.150.97:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65095",
-      "remote_address": "161.129.60.98:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65004",
-      "remote_address": "103.108.94.162:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65084",
-      "remote_address": "103.107.197.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::53334",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:58221",
-      "remote_address": "194.5.215.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:13333",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 10336
-    },
-    {
-      "local_address": "192.168.100.146:64976",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "192.168.100.146:65050",
-      "remote_address": "37.120.156.18:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65062",
-      "remote_address": "38.95.13.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:64108",
-      "remote_address": "127.0.0.1:64109",
-      "status": "ESTABLISHED",
-      "pid": 19228
-    },
-    {
-      "local_address": "192.168.100.146:65008",
-      "remote_address": "87.120.103.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:55333",
-      "remote_address": "127.0.0.1:8000",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:64727",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:65069",
-      "remote_address": "116.206.228.178:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:60785",
-      "remote_address": "2607:6bc0::10:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:60790",
-      "remote_address": "103.87.68.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64760",
-      "remote_address": "204.79.197.254:443",
-      "status": "ESTABLISHED",
-      "pid": 16952
-    },
-    {
-      "local_address": ":::135",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 2128
-    },
-    {
-      "local_address": "192.168.100.146:58212",
-      "remote_address": "167.88.60.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::5353",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:58202",
-      "remote_address": "37.120.233.34:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:55805",
-      "remote_address": "149.88.96.12:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:65468",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "0.0.0.0:53619",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "127.0.0.1:49753",
-      "remote_address": "127.0.0.1:49752",
-      "status": "ESTABLISHED",
-      "pid": 5800
-    },
-    {
-      "local_address": "192.168.100.146:58231",
-      "remote_address": "198.44.157.19:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:55252",
-      "remote_address": "127.0.0.1:8000",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "fe80::511b:80a2:2329:ddec:64972",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "192.168.100.146:65047",
-      "remote_address": "103.62.50.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:64100",
-      "remote_address": "2600:9000:2381:2000:17:b174:6d00:93a1:443",
-      "status": "CLOSE_WAIT",
-      "pid": 19228
-    },
-    {
-      "local_address": "192.168.100.146:64994",
-      "remote_address": "165.73.248.90:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:55286",
-      "remote_address": "127.0.0.1:63709",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65022",
-      "remote_address": "169.150.199.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65030",
-      "remote_address": "152.233.20.206:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58181",
-      "remote_address": "149.88.111.14:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65075",
-      "remote_address": "103.77.232.74:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65005",
-      "remote_address": "103.77.234.210:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65034",
-      "remote_address": "149.22.80.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58198",
-      "remote_address": "129.227.103.90:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60795",
-      "remote_address": "54.186.23.98:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:58203",
-      "remote_address": "84.233.178.33:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58752",
-      "remote_address": "104.26.5.147:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:53334",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "0.0.0.0:50060",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 16952
-    },
-    {
-      "local_address": "192.168.100.146:65033",
-      "remote_address": "154.47.25.65:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65098",
-      "remote_address": "198.54.129.67:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:58748",
-      "remote_address": "2600:1417:3::17d8:970a:443",
-      "status": "ESTABLISHED",
-      "pid": 16952
-    },
-    {
-      "local_address": "192.168.100.146:65066",
-      "remote_address": "95.173.221.15:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58187",
-      "remote_address": "185.183.105.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64991",
-      "remote_address": "116.90.75.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65024",
-      "remote_address": "23.92.127.34:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65054",
-      "remote_address": "84.17.57.113:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58211",
-      "remote_address": "212.103.49.66:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
     },
     {
       "local_address": "127.0.0.1:50263",
@@ -3021,16 +1917,28 @@
       "pid": 20364
     },
     {
+      "local_address": "192.168.56.1:55033",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7068
+    },
+    {
+      "local_address": "0.0.0.0:5050",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 12904
+    },
+    {
       "local_address": "192.168.56.1:138",
       "remote_address": null,
       "status": "NONE",
       "pid": 4
     },
     {
-      "local_address": "192.168.100.146:58208",
-      "remote_address": "89.47.62.98:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "0.0.0.0:7680",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4672
     },
     {
       "local_address": "127.0.0.1:64164",
@@ -3039,16 +1947,64 @@
       "pid": 12088
     },
     {
-      "local_address": "192.168.100.146:51958",
-      "remote_address": "40.79.150.120:443",
+      "local_address": "127.0.0.1:63705",
+      "remote_address": "127.0.0.1:63707",
+      "status": "ESTABLISHED",
+      "pid": 20364
+    },
+    {
+      "local_address": "192.168.56.1:55326",
+      "remote_address": "169.254.169.254:80",
+      "status": "SYN_SENT",
+      "pid": 14372
+    },
+    {
+      "local_address": "127.0.0.1:57774",
+      "remote_address": "127.0.0.1:49680",
+      "status": "ESTABLISHED",
+      "pid": 10336
+    },
+    {
+      "local_address": "0.0.0.0:49669",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 3884
+    },
+    {
+      "local_address": "127.0.0.1:54215",
+      "remote_address": "127.0.0.1:63704",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:64761",
-      "remote_address": "34.36.57.103:443",
+      "local_address": "127.0.0.1:57779",
+      "remote_address": "127.0.0.1:49680",
       "status": "ESTABLISHED",
-      "pid": 23384
+      "pid": 10336
+    },
+    {
+      "local_address": "127.0.0.1:63718",
+      "remote_address": "127.0.0.1:19206",
+      "status": "ESTABLISHED",
+      "pid": 3732
+    },
+    {
+      "local_address": "127.0.0.1:49741",
+      "remote_address": "127.0.0.1:49742",
+      "status": "ESTABLISHED",
+      "pid": 2304
+    },
+    {
+      "local_address": "127.0.0.1:8000",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 19228
+    },
+    {
+      "local_address": "127.0.0.1:49908",
+      "remote_address": "127.0.0.1:49907",
+      "status": "ESTABLISHED",
+      "pid": 4064
     },
     {
       "local_address": "127.0.0.1:54448",
@@ -3057,16 +2013,16 @@
       "pid": 0
     },
     {
-      "local_address": "fe80::be90:1d3a:989c:539d:1900",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
       "local_address": ":::49665",
       "remote_address": null,
       "status": "LISTEN",
       "pid": 1804
+    },
+    {
+      "local_address": "127.0.0.1:55147",
+      "remote_address": "127.0.0.1:63704",
+      "status": "TIME_WAIT",
+      "pid": 0
     },
     {
       "local_address": "127.0.0.1:64111",
@@ -3087,22 +2043,16 @@
       "pid": 14372
     },
     {
-      "local_address": "192.168.100.146:58223",
-      "remote_address": "84.20.18.33:6464",
+      "local_address": "127.0.0.1:58276",
+      "remote_address": "127.0.0.1:8000",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:65072",
-      "remote_address": "104.244.210.50:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58190",
-      "remote_address": "146.70.242.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:63709",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 16744
     },
     {
       "local_address": "127.0.0.1:49907",
@@ -3117,10 +2067,22 @@
       "pid": 3564
     },
     {
-      "local_address": "0.0.0.0:52404",
+      "local_address": "127.0.0.1:49740",
+      "remote_address": "127.0.0.1:49739",
+      "status": "ESTABLISHED",
+      "pid": 2076
+    },
+    {
+      "local_address": "127.0.0.1:54050",
+      "remote_address": "127.0.0.1:54049",
+      "status": "ESTABLISHED",
+      "pid": 20364
+    },
+    {
+      "local_address": "127.0.0.1:55000",
       "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
+      "status": "LISTEN",
+      "pid": 10336
     },
     {
       "local_address": "127.0.0.1:63713",
@@ -3129,46 +2091,52 @@
       "pid": 20052
     },
     {
+      "local_address": ":::49680",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 6056
+    },
+    {
+      "local_address": "127.0.0.1:1001",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 4
+    },
+    {
+      "local_address": "0.0.0.0:11434",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 23212
+    },
+    {
       "local_address": "127.0.0.1:54307",
       "remote_address": "127.0.0.1:63704",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:58228",
-      "remote_address": "185.191.204.98:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:64059",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 23888
     },
     {
-      "local_address": "192.168.100.146:58219",
-      "remote_address": "149.102.227.77:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:63708",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 16744
     },
     {
-      "local_address": "192.168.100.146:60784",
-      "remote_address": "100.25.236.221:443",
+      "local_address": "127.0.0.1:54049",
+      "remote_address": "127.0.0.1:54050",
       "status": "ESTABLISHED",
-      "pid": 23384
+      "pid": 20364
     },
     {
-      "local_address": "192.168.100.146:58174",
-      "remote_address": "68.235.56.59:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58186",
-      "remote_address": "23.95.42.210:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60798",
-      "remote_address": "54.186.23.98:443",
+      "local_address": "127.0.0.1:49680",
+      "remote_address": "127.0.0.1:57779",
       "status": "ESTABLISHED",
-      "pid": 23384
+      "pid": 6056
     },
     {
       "local_address": "127.0.0.1:49751",
@@ -3177,22 +2145,10 @@
       "pid": 3668
     },
     {
-      "local_address": "192.168.100.146:64979",
-      "remote_address": "34.36.57.103:443",
+      "local_address": "127.0.0.1:49680",
+      "remote_address": "127.0.0.1:57774",
       "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:64990",
-      "remote_address": "79.127.149.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65094",
-      "remote_address": "149.88.27.46:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "pid": 6056
     },
     {
       "local_address": "127.0.0.1:64110",
@@ -3201,28 +2157,46 @@
       "pid": 19228
     },
     {
-      "local_address": "192.168.100.146:138",
+      "local_address": "127.0.0.1:49742",
+      "remote_address": "127.0.0.1:49741",
+      "status": "ESTABLISHED",
+      "pid": 2304
+    },
+    {
+      "local_address": "127.0.0.1:54192",
+      "remote_address": "127.0.0.1:8000",
+      "status": "TIME_WAIT",
+      "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:63707",
+      "remote_address": "127.0.0.1:63705",
+      "status": "ESTABLISHED",
+      "pid": 20052
+    },
+    {
+      "local_address": "0.0.0.0:135",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2128
+    },
+    {
+      "local_address": "0.0.0.0:5353",
       "remote_address": null,
       "status": "NONE",
+      "pid": 3564
+    },
+    {
+      "local_address": "0.0.0.0:445",
+      "remote_address": null,
+      "status": "LISTEN",
       "pid": 4
     },
     {
-      "local_address": "192.168.100.146:65051",
-      "remote_address": "116.90.72.242:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.56.1:64975",
+      "local_address": "127.0.0.1:13333",
       "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "192.168.100.146:65081",
-      "remote_address": "146.70.203.18:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "status": "LISTEN",
+      "pid": 10336
     },
     {
       "local_address": "127.0.0.1:49750",
@@ -3231,26 +2205,32 @@
       "pid": 3668
     },
     {
+      "local_address": "127.0.0.1:56893",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 4596
+    },
+    {
       "local_address": "127.0.0.1:54377",
       "remote_address": "127.0.0.1:63704",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:65012",
-      "remote_address": "146.70.191.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:55034",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7068
     },
     {
-      "local_address": "192.168.100.146:65042",
-      "remote_address": "149.50.208.46:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:63709",
+      "remote_address": "127.0.0.1:55286",
+      "status": "ESTABLISHED",
+      "pid": 16744
     },
     {
-      "local_address": "192.168.100.146:58180",
-      "remote_address": "185.144.82.2:6464",
+      "local_address": "127.0.0.1:54477",
+      "remote_address": "127.0.0.1:63704",
       "status": "TIME_WAIT",
       "pid": 0
     },
@@ -3267,10 +2247,22 @@
       "pid": 5148
     },
     {
-      "local_address": "192.168.100.146:58226",
-      "remote_address": "77.81.136.98:6464",
+      "local_address": "127.0.0.1:64108",
+      "remote_address": "127.0.0.1:64109",
+      "status": "ESTABLISHED",
+      "pid": 19228
+    },
+    {
+      "local_address": "127.0.0.1:53501",
+      "remote_address": "127.0.0.1:63709",
       "status": "TIME_WAIT",
       "pid": 0
+    },
+    {
+      "local_address": "127.0.0.1:63708",
+      "remote_address": "127.0.0.1:63713",
+      "status": "ESTABLISHED",
+      "pid": 16744
     },
     {
       "local_address": "127.0.0.1:63708",
@@ -3279,16 +2271,28 @@
       "pid": 16744
     },
     {
-      "local_address": "192.168.100.146:64997",
-      "remote_address": "195.54.178.210:6464",
+      "local_address": "127.0.0.1:19206",
+      "remote_address": "127.0.0.1:63718",
+      "status": "ESTABLISHED",
+      "pid": 5308
+    },
+    {
+      "local_address": ":::5355",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 3564
+    },
+    {
+      "local_address": "127.0.0.1:54356",
+      "remote_address": "127.0.0.1:8000",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:65019",
-      "remote_address": "58.120.141.74:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "192.168.56.1:55325",
+      "remote_address": "169.254.169.254:80",
+      "status": "SYN_SENT",
+      "pid": 14372
     },
     {
       "local_address": "127.0.0.1:5492",
@@ -3297,16 +2301,16 @@
       "pid": 11432
     },
     {
-      "local_address": "192.168.100.146:65055",
-      "remote_address": "95.173.219.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:50760",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5820
     },
     {
-      "local_address": "::1:64974",
+      "local_address": "::1:49671",
       "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
+      "status": "LISTEN",
+      "pid": 5940
     },
     {
       "local_address": "0.0.0.0:49664",
@@ -3315,40 +2319,52 @@
       "pid": 1908
     },
     {
-      "local_address": "192.168.100.146:58751",
-      "remote_address": "104.26.5.147:443",
+      "local_address": ":::135",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2128
+    },
+    {
+      "local_address": "0.0.0.0:49665",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1804
+    },
+    {
+      "local_address": "127.0.0.1:54220",
+      "remote_address": "127.0.0.1:63709",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:65010",
-      "remote_address": "156.146.56.110:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:65262",
+      "local_address": ":::5353",
       "remote_address": null,
       "status": "NONE",
       "pid": 3564
     },
     {
-      "local_address": "192.168.100.146:65091",
-      "remote_address": "185.156.173.178:6464",
+      "local_address": "127.0.0.1:53966",
+      "remote_address": "127.0.0.1:8000",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:58224",
-      "remote_address": "213.139.10.33:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:64109",
+      "remote_address": "127.0.0.1:64108",
+      "status": "ESTABLISHED",
+      "pid": 19228
     },
     {
-      "local_address": "192.168.100.146:58175",
-      "remote_address": "23.191.80.98:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:49753",
+      "remote_address": "127.0.0.1:49752",
+      "status": "ESTABLISHED",
+      "pid": 5800
+    },
+    {
+      "local_address": "127.0.0.1:55286",
+      "remote_address": "127.0.0.1:63709",
+      "status": "ESTABLISHED",
+      "pid": 20052
     },
     {
       "local_address": "192.168.56.1:139",
@@ -3357,40 +2373,22 @@
       "pid": 4
     },
     {
-      "local_address": "192.168.100.146:65056",
-      "remote_address": "45.133.192.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::50060",
+      "local_address": ":::7680",
       "remote_address": null,
-      "status": "NONE",
-      "pid": 16952
+      "status": "LISTEN",
+      "pid": 4672
     },
     {
-      "local_address": "192.168.100.146:60799",
-      "remote_address": "148.72.152.126:443",
-      "status": "LAST_ACK",
-      "pid": 5308
-    },
-    {
-      "local_address": "192.168.100.146:58188",
-      "remote_address": "96.31.87.194:6464",
+      "local_address": "127.0.0.1:55252",
+      "remote_address": "127.0.0.1:8000",
       "status": "TIME_WAIT",
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:64977",
-      "remote_address": "52.230.59.222:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65035",
-      "remote_address": "198.44.139.43:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:64100",
+      "remote_address": "2600:9000:2381:2000:17:b174:6d00:93a1:443",
+      "status": "CLOSE_WAIT",
+      "pid": 19228
     },
     {
       "local_address": "0.0.0.0:49680",
@@ -3399,10 +2397,10 @@
       "pid": 6056
     },
     {
-      "local_address": "192.168.100.146:65090",
-      "remote_address": "149.22.91.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "::1:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7068
     },
     {
       "local_address": "127.0.0.1:55281",
@@ -3411,28 +2409,16 @@
       "pid": 0
     },
     {
-      "local_address": ":::59728",
+      "local_address": "0.0.0.0:49682",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1880
+    },
+    {
+      "local_address": "192.168.56.1:1900",
       "remote_address": null,
       "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:58750",
-      "remote_address": "18.97.36.2:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65073",
-      "remote_address": "103.58.150.11:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65061",
-      "remote_address": "152.233.3.14:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "pid": 7068
     },
     {
       "local_address": "127.0.0.1:19206",
@@ -3441,16 +2427,16 @@
       "pid": 5308
     },
     {
-      "local_address": "192.168.100.146:58176",
-      "remote_address": "193.176.87.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "0.0.0.0:5040",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 12904
     },
     {
-      "local_address": "192.168.100.146:65003",
-      "remote_address": "190.103.176.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "0.0.0.0:49668",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 2744
     },
     {
       "local_address": "127.0.0.1:49752",
@@ -3459,43 +2445,19 @@
       "pid": 5800
     },
     {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:51606",
-      "remote_address": "2620:1ec:46::254:443",
-      "status": "ESTABLISHED",
-      "pid": 16952
+      "local_address": "127.0.0.1:1900",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7068
     },
     {
-      "local_address": "192.168.100.146:58191",
-      "remote_address": "154.47.29.174:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58222",
-      "remote_address": "87.249.132.97:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65093",
-      "remote_address": "188.124.42.98:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "127.0.0.1:10010",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 11600
     },
     {
       "local_address": "192.168.56.1:137",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 4
-    },
-    {
-      "local_address": "192.168.100.146:58173",
-      "remote_address": "149.88.22.33:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:137",
       "remote_address": null,
       "status": "NONE",
       "pid": 4
@@ -3513,14 +2475,14 @@
       "pid": 0
     },
     {
-      "local_address": "192.168.100.146:65009",
-      "remote_address": "103.108.92.82:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
+      "local_address": "::1:55032",
+      "remote_address": null,
+      "status": "NONE",
+      "pid": 7068
     },
     {
-      "local_address": "192.168.100.146:65041",
-      "remote_address": "198.44.159.27:6464",
+      "local_address": "127.0.0.1:53895",
+      "remote_address": "127.0.0.1:63704",
       "status": "TIME_WAIT",
       "pid": 0
     },
@@ -3531,514 +2493,34 @@
       "pid": 20364
     },
     {
-      "local_address": "192.168.100.146:65058",
-      "remote_address": "149.88.21.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65006",
-      "remote_address": "45.156.248.50:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60794",
-      "remote_address": "54.189.82.150:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:65040",
-      "remote_address": "1.220.90.178:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65043",
-      "remote_address": "94.242.50.183:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::49668",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 2744
-    },
-    {
-      "local_address": "192.168.100.146:65018",
-      "remote_address": "212.103.48.82:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:63517",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:58194",
-      "remote_address": "149.36.51.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65059",
-      "remote_address": "85.203.39.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65092",
-      "remote_address": "178.175.142.7:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65089",
-      "remote_address": "79.127.182.225:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64976",
-      "remote_address": "20.111.1.3:443",
-      "status": "ESTABLISHED",
-      "pid": 22248
-    },
-    {
-      "local_address": "127.0.0.1:54215",
-      "remote_address": "127.0.0.1:63704",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65079",
-      "remote_address": "167.88.50.2:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65099",
-      "remote_address": "149.102.232.225:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:8000",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 19228
-    },
-    {
-      "local_address": "192.168.100.146:65049",
-      "remote_address": "169.150.237.1:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65037",
-      "remote_address": "45.138.86.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:55147",
-      "remote_address": "127.0.0.1:63704",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65023",
-      "remote_address": "79.127.224.97:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64995",
-      "remote_address": "149.22.88.65:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:63709",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 16744
-    },
-    {
-      "local_address": "192.168.100.146:64983",
-      "remote_address": "37.120.210.66:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65102",
-      "remote_address": "34.36.57.103:443",
-      "status": "ESTABLISHED",
-      "pid": 23384
-    },
-    {
-      "local_address": "127.0.0.1:49740",
-      "remote_address": "127.0.0.1:49739",
-      "status": "ESTABLISHED",
-      "pid": 2076
-    },
-    {
-      "local_address": "192.168.100.146:64988",
-      "remote_address": "149.50.212.206:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65017",
-      "remote_address": "172.241.250.137:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:64059",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 23888
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:51959",
-      "remote_address": "2603:1040:a06:6::2:443",
-      "status": "ESTABLISHED",
-      "pid": 5292
-    },
-    {
-      "local_address": "192.168.100.146:55808",
-      "remote_address": "72.154.7.107:443",
-      "status": "ESTABLISHED",
-      "pid": 4672
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:64969",
-      "remote_address": "2620:1ec:50::17:443",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65011",
-      "remote_address": "84.20.16.97:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:62688",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "127.0.0.1:64977",
+      "local_address": "fe80::511b:80a2:2329:ddec:55031",
       "remote_address": null,
       "status": "NONE",
       "pid": 7068
     },
     {
-      "local_address": "192.168.100.146:58179",
-      "remote_address": "193.36.118.226:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58230",
-      "remote_address": "213.139.9.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58229",
-      "remote_address": "103.9.79.218:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:63462",
-      "remote_address": "20.233.83.146:443",
-      "status": "ESTABLISHED",
-      "pid": 14372
-    },
-    {
-      "local_address": "192.168.100.146:65065",
-      "remote_address": "185.164.35.16:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58192",
-      "remote_address": "172.98.68.238:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65020",
-      "remote_address": "107.6.254.50:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:60783",
-      "remote_address": "204.79.197.222:443",
-      "status": "ESTABLISHED",
-      "pid": 16952
-    },
-    {
-      "local_address": "192.168.100.146:64981",
-      "remote_address": "38.165.233.178:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:56893",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 4596
-    },
-    {
-      "local_address": "0.0.0.0:58353",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
-    },
-    {
-      "local_address": "192.168.100.146:65036",
-      "remote_address": "157.254.55.122:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65048",
-      "remote_address": "185.245.84.50:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:54477",
-      "remote_address": "127.0.0.1:63704",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64971",
-      "remote_address": "184.31.5.188:443",
-      "status": "ESTABLISHED",
-      "pid": 4672
-    },
-    {
-      "local_address": ":::63517",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "127.0.0.1:19206",
-      "remote_address": "127.0.0.1:63718",
-      "status": "ESTABLISHED",
-      "pid": 5308
-    },
-    {
-      "local_address": "127.0.0.1:54356",
-      "remote_address": "127.0.0.1:8000",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58182",
-      "remote_address": "198.54.131.211:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "0.0.0.0:49665",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 1804
-    },
-    {
-      "local_address": "127.0.0.1:54220",
-      "remote_address": "127.0.0.1:63709",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65052",
-      "remote_address": "103.137.14.34:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64982",
-      "remote_address": "149.50.216.76:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:63460",
-      "remote_address": "2603:1063:2000:1::254:443",
-      "status": "ESTABLISHED",
-      "pid": 16952
-    },
-    {
-      "local_address": "192.168.100.146:58220",
-      "remote_address": "82.102.31.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:64980",
-      "remote_address": "103.26.207.103:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58200",
-      "remote_address": "154.47.28.129:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": ":::7680",
-      "remote_address": null,
-      "status": "LISTEN",
-      "pid": 4672
-    },
-    {
-      "local_address": "192.168.100.146:65021",
-      "remote_address": "149.102.245.65:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "2001:1a40:1023:1800:2477:f846:6be3:eab4:51519",
-      "remote_address": "2603:1040:a06:6::2:443",
-      "status": "ESTABLISHED",
-      "pid": 21428
-    },
-    {
-      "local_address": "192.168.100.146:65007",
-      "remote_address": "103.1.212.242:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65100",
-      "remote_address": "129.227.44.190:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "::1:1900",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "192.168.100.146:58210",
-      "remote_address": "37.156.216.146:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:58177",
-      "remote_address": "165.231.141.138:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65053",
-      "remote_address": "208.78.41.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:139",
+      "local_address": ":::445",
       "remote_address": null,
       "status": "LISTEN",
       "pid": 4
-    },
-    {
-      "local_address": "192.168.100.146:58185",
-      "remote_address": "185.206.225.130:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65097",
-      "remote_address": "198.12.116.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65045",
-      "remote_address": "141.255.162.194:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65077",
-      "remote_address": "109.61.85.33:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "127.0.0.1:1900",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 7068
-    },
-    {
-      "local_address": "127.0.0.1:10010",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 11600
-    },
-    {
-      "local_address": ":::52689",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 23384
-    },
-    {
-      "local_address": "192.168.100.146:65001",
-      "remote_address": "149.34.248.65:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65014",
-      "remote_address": "45.201.0.151:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:65016",
-      "remote_address": "79.127.139.33:6464",
-      "status": "TIME_WAIT",
-      "pid": 0
-    },
-    {
-      "local_address": "192.168.100.146:55768",
-      "remote_address": "10.3.0.20:1688",
-      "status": "SYN_SENT",
-      "pid": 15032
-    },
-    {
-      "local_address": ":::64727",
-      "remote_address": null,
-      "status": "NONE",
-      "pid": 3564
     },
     {
       "local_address": ":::11434",
       "remote_address": null,
       "status": "LISTEN",
       "pid": 23212
+    },
+    {
+      "local_address": "0.0.0.0:49699",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 5148
+    },
+    {
+      "local_address": ":::49664",
+      "remote_address": null,
+      "status": "LISTEN",
+      "pid": 1908
     }
   ],
   "network_intelligence": {
@@ -4047,14 +2529,14 @@
       "ports": {
         "22": "closed",
         "23": "closed",
-        "80": "open",
+        "80": "closed",
         "443": "closed",
         "8080": "closed"
       },
       "findings": [
         {
           "check": "default_http_admin",
-          "status": "detected"
+          "status": "not_detected"
         }
       ]
     }
